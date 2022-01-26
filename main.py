@@ -10,6 +10,11 @@ def extract(page):
 	r = requests.get(url, headers)
 	soup = BeautifulSoup(r.content, 'html.parser')
 	return soup
+def containsNumber(value):
+    for character in value:
+        if character.isdigit():
+            return True
+    return False
 
 def transform(soup):
 	
@@ -30,7 +35,8 @@ def transform(soup):
 			salary = item.find('span',class_ = "estimated-salary").text if item.find('span',class_ = "estimated-salary") else None
 		description = item.find('div', class_ = "job-snippet").text.replace('\n', '') if item.find('div', class_ = "job-snippet") else None
 		daysago = item.find('span', class_ = "date").text if item.find('span', class_ = "visually-hidden") else None
-
+		data_jk = item.find('a', class_ = "data-jk").text if item.find('a', class_ = "data-jk") else None
+		
 		job = {
 		'title': title,
 		'company': company,
@@ -38,16 +44,16 @@ def transform(soup):
 		'location' : location,
 		'company_rating' : rating,
 		'description' : description,
-		'daysago' : daysago
-        }
+		'daysago' : daysago         }
 		jobList.append(job)
-	return  
-		
+		print(data_jk)
+	return jobList
+
 jobList = []
 
 i = 0
-while i < 200:
-	print(f'Getting page, {i/10}')
+while i < 10:
+	print(f'Getting page, {i/10 + 1}')
 	try:
 		c = extract(i)
 	except:
