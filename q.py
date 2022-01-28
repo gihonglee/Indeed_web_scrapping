@@ -24,3 +24,7 @@ for job in jobs:
     job_description = job_description_tag.text if job_description_tag else "N/A"
     
     print('Job Title:', title, '\nLink:', link, '\nJob Description:', job_description, '\n---')
+
+
+https://www.indeed.com/jobs?q=data+scientist&l=United+States
+https://www.indeed.com/jobs?q=data+scientist&l=United+States&vjk=8a4ed7a7701bf5d8

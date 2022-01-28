@@ -1,16 +1,1363 @@
-,title,company,salary,location,company_rating,description,daysago
-0,"2022510 Data Scientist $215,000.00",B4CORP,"Up to $215,000 a year","Reston, VA+2 locations",,Position Requires a Top Secret (TS/SCI) Clearance with a Polygraph. This role uses Data Science and engineering techniques to satisfy customer requirements.…,Posted2 days ago
-1,Data Scientist,National Security Agency,"$86,389 - $116,788 a year","Fort Meade, MD+3 locations",4.2,NSA Overview: The professionals at the National Security Agency (NSA) have one common goal: to protect our nation. The mission requires a strong offense and…,Posted30+ days ago
-2,Junior Data Labeler,Deloitte,,"Rosslyn, VA 22209 (Radnor-Ft Myer Heights area)+109 locations",4.0,"Junior Data Labeler In this age of disruption, organizations need to navigate the future with confidence by tapping into the power of data analytics, robotics…",Posted30+ days ago
-3,Data Scientist,Central Intelligence Agency,"$70,150 - $172,500 a year","Washington, DC 20505 (Foggy Bottom area)",4.3,"Data Scientists develop algorithms and statistical methods that find patterns and relationships in large volumes of data, driving operations and shaping CIA…",Posted30+ days ago
-4,Data Scientist,Dataworks,"$100,000 - $130,000 a year","Washington, DC",,"*Data Scientist* *Washington D.C. – US* *Competitive salary plus bonus / benefits* *TECH STACK: *SQL, ElasticSearch, C# This is an exciting opportunity to…",EmployerActive 2 days ago
-5,Jr. Data Scientist,Cognowiz solutions LLC,"$70,000 - $90,000 a year","Herndon, VA 20170",,"· Ideal candidate should have a degree in a quantitative field (e.g., mathematics, computer science, physics, economics, engineering, statistics, operations…",EmployerActive 2 days ago
-6,"DATA - Data Scientist - Python, R, Gurobi - onsite",Addison Group,"$125,000 a year","Arlington, VA 22201",3.7,"Title: Data Scientist - Python, Gurobi Location: Arlington, VA Salary: $110-125K No sponsorship available We are a a financial and strategic advisory firm…",Posted30+ days ago
-7,IT Specialist (Data Scientist),US Consumer Financial Protection Bureau,"$111,199 - $169,108 a year","Washington, DC•Temporarily Remote",,"Duties As a IT Specialist (Data Scientist), you will: Assist the HMDA Program Manager in setting strategic direction for CFPB's HMDA Platform data…",Posted11 days ago
-8,Data Scientist,BlueLabs,"$75,000 a year","Washington, DC 20005 (Logan Circle area)",,"About BlueLabs BlueLabs is a leading provider of analytics services and technology for a variety of industry clients: including government, business, and…",Posted30+ days ago
-9,Data Integration - Statistical Analyst,Prince George's County Public Schools,"$62,703 - $121,641 a year","Oxon Hill, MD",3.7,"This is an ASASP Unit III position, 12 months - Pay Table 900 - Grade 27 Salary Range: $62,703 - $121,641 CLOSING DATE: January 31, 2022 Detailed…",Posted12 days ago
-10,Junior Data Scientist,Reed Business Information,,"Washington, DC+4 locations•Remote",3.7,"Who We Are: Knowable is the market leader in turning contracts into structured data, and now we are building an ML based analytics platform to transform the…",Posted13 days ago
-11,Junior Data Scientist,SRI International,,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)•Remote",3.6,"Overview: SRI International, an over 75-year strong pioneering research institute, has a rich history supporting government and industry. Our innovations…",Posted30+ days ago
-12,DATA SCIENTIST,US Office of National Drug Control Policy,"$106,823 - $138,868 a year","Washington, DC",,"Duties As a DATA SCIENTIST, GS-1560-13, your typical work assignments may include the following: Responsible for providing professional consultation in the…",Posted11 days ago
-13,Data Scientist,Evans & Chambers Technology,,"Washington, DC+2 locations•Remote",4.5,Evans & Chambers Technology is seeking a Data Scientist to join our team! *Location: * Remote *Clearance: * Must be a US Citizen The Data Scientist will…,EmployerActive 12 days ago
-14,Data Scientist,SYNTASA,,"Herndon, VA 20170•Remote",3.5,"Data Scientist Guide our customers in their adoption of AI and Machine Learning, helping them to realize whole potential of modern data science and data…",Posted23 days ago
+,title,company,salary,location,company_rating,description
+0,Data Scientist (Entry Level- Remote),HiLabs,"$120,000 - $150,000 a year","Raleigh-Durham, NC+1 location•Remote",,"At HiLabs , Our mission is to put healthcare organizations in the driver seat for data-driven healthcare decision making We believe that the no one knows healthcare data better than the healthcare organizations that create it. However, healthcare organizations often lack the tools to generate insights from this data. Statisticians, data scientists and technology gurus can create tools, but these tools have no value until merged with the valuable domain knowledge that only healthcare organizations possess. We empower healthcare organizations with data science tools to leverage their deep domain knowledge and generate novel insights from their data.
+Job Summary
+As a Data Scientist at HiLabs, you will partner closely with a team of stake holders, product managers, and data engineers to solve real problems in healthcare domain.
+HiLabs is looking for great problem solvers who can tap into the potential of data and deliver scalable and robust data products. Our potential member would work on developing and implementing machine learning algorithms for various HiLabs Products and Solutions
+Job Responsibilities
+· Leveraging AI/ML techniques and solutions to Identify and mathematically interpret complex healthcare problems
+· Deploy and optimize machine learning solutions on massive datasets using big data technologies.
+· Develop and prototype AI algorithms and software tools.
+· Implement enhancements to existing algorithmic/ deep learning solutions.
+· Conduct quantitative data analysis using a variety of datasets
+· Increase the efficiency and improve the quality of solutions offered
+· Understand business use cases and pull the necessary data from various sources to provide key insights to stakeholders. Build and deploy additional functionalities as per client requirements
+· Leverage recent advances in machine learning technologies and oversee the team’s training
+· For Lead/Sr. Data Scientists- Lead a team of Data Scientists, developers as well as clinicians to strategize, design and evaluate AI based solutions to healthcare problems.
+Desired profile
+· Bachelor’s Degree/Master’s Degree in Computer Science, Mathematics, Statistics, Physics, Electrical Engineering, Computer Engineering or related fields from tier 1 college
+· Hands-on Software Development Skills (Scala-Preferred)
+· Experience or educational courses/projects in Machine Learning, and/or Text Mining Algorithms.
+· Knowledge of statistical techniques, linear algebra, numerical optimization
+· Knowledge of ML theory such as bias variance tradeoff, regularization, loss functions and experienced in A/B testing.
+· Ability to work closely with Domain experts to develop tools/algorithms needed to answer research questions in their studies
+· Excellent Communication Skills (with the ability to explain developed tools and ML algorithms to a non-technical audience)
+· Ability to formulate operational problems in healthcare domain as technical problems that allows for reuse of leading research in the area.
+· Proven ability to work independently to learn new technologies, techniques, processes, languages, platforms, systems
+· Strong analytical, inferential, critical thinking, and creative problem-solving skills
+· Self-starter with ability to work both independently and with a team
+Preferred Qualifications:
+· Experience with Deep Learning Frameworks such as Keras, Tensorflow, PyTorch,Mxnet etc.
+· Experience with interpretability of deep learning models
+· Big Data Skills (Hadoop, Spark, recent deep learning platforms)
+· Experience with text mining tools and techniques including in areas of summarization, search (e.g. ELK Stack) , entity extraction, training set generation (e.g. Snorkel) and anomaly detection
+· Expert software development skills including developing and maintaining good production quality code
+Job Type: Full-time
+Pay: $120,000.00 - $150,000.00 per year
+Schedule:
+8 hour shift
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Education:
+Bachelor's (Required)
+Work Location: One location"
+1,Data Scientist,Pfizer,,"Cambridge, MA+9 locations",4.2,"ROLE SUMMARY
+The Data Scientist supports Digital Medicine & Translational Imaging projects from inception to completion by leveraging her/his technical expertise. S/he guides the selection of devices, writes code to ingest data from these devices, implements the pipelines for bringing together data from multiple sources and develops novel digital biomarkers by using advanced signal processing and machine learning techniques.
+The Data Scientist is a key member of the Digital Medicine team and partners closely with the scientific and clinical team members, applying technical, software development and analytics knowledge to support the research, development and deployment of digital biomarkers in clinical trials.
+ROLE RESPONSIBILITIES
+Use structured and unstructured data to develop digital biomarkers by implementing novel signal processing and machine learning workflows
+Engineer and extract features from raw data that capture clinically relevant aspects of disease symptoms
+Develop software tools and scripts at scale to support data analysis and interpretation pipelines
+Present and discuss findings with project teams, support iterative solutions development and scientific research
+Integrate and summarize large-scale data and information across multiple scientific, translational, and clinical domains
+Communicate effectively with team members, experts and regulatory authorities
+Function in the matrix of both project-centric and discipline-centric expectations
+QUALIFICATIONS
+Training & Education
+MS in Biomedical Engineering, Electrical Engineering, Computer Science, or a similar technical field with 1-3 years of professional experience; or BS with 3+ years of related professional experience
+Basic Qualifications
+Coding experience in Python, R or MATLAB
+Working knowledge of AWS tools and services
+Excellent communication (written and verbal) and presentation skills
+Preferred Qualifications
+Strong background in data science, signal processing and machine learning
+Familiarity in setting up and using agile software development, and source control tools (e.g., git)
+Experience with analysis of data from wearable devices with motion (e.g., accelerometer, gyroscope) and physiological (e.g., ECG, EMG) sensors
+Knowledge of human biomechanics and/or physiology
+PHYSICAL/MENTAL REQUIREMENTS
+Ability to perform mathematical calculations and ability to perform complex data analysis
+OTHER JOB DETAILS
+Eligible for Relocation Package
+Eligible for Employee Referral Award
+Pfizer requires all U.S. new hires to be fully vaccinated for COVID-19 prior to the first date of employment. As required by applicable law, Pfizer will consider requests for Reasonable Accommodations.
+Sunshine Act
+Pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations. These laws and regulations require Pfizer to provide government agencies with information such as a health care provider’s name, address and the type of payments or other value received, generally for public disclosure. Subject to further legal review and statutory or regulatory clarification, which Pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the Sunshine Act. Therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with Pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government. If you have questions regarding this matter, please do not hesitate to contact your Talent Acquisition representative.
+EEO & Employment Eligibility
+Pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. Pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA. Pfizer is an E-Verify employer.
+Research and Development
+#LI-PFE"
+2,Data Scientist,Dataworks,"$100,000 - $150,000 a year","New York, NY 10011 (Chelsea area)+2 locations",,"Data Scientist
+New York – US
+Competitive salary plus bonus / benefits
+TECH STACK:
+SQL, ElasticSearch, C#
+This is an exciting opportunity to join one of the fastest growing Insurtech innovators as a Data Scientist. This is a hands-on role where you will be responsible for delivering a wide range of new products and services that will be directly used by their end clients.
+ABOUT THE COMPANY
+This organisation transforms insurance with the power of AI, allowing teams to be more efficient and improve their financial performance. They have offices worldwide and work with the world’s leading insurers. This is a unique opportunity for the successful candidate to accelerate their career and work in a fast-growing company, with the offering of progression. Your achievements will have a direct impact on the overall performance of the company.
+ABOUT THE ROLE
+In this role you will be part of the data science team, this team is responsible for technically delivering the company’s products to their clients.
+Key things you will be responsible for are:
+Using ElasticSearch and SQL to build out data stores.
+Building out new models and putting them into production.
+Meeting with clients and interacting with stakeholders to drive product development.
+SKILLS & EXPERIENCE
+In order to be considered you MUST have experience in the following:
+A degree in a STEM subject
+Excellent hands-on experience working a Data scientist in a fast paced and growing organisation
+A passion and deep-rooted understanding of statistics and machine learning problem
+Excellent communication and presentation skills. You must be just as comfortable writing clean code as you would be delivering a presentation to their clients
+BENEFITS
+The successful candidate will get the opportunity to join one of the world’s fastest growing Insurtech innovators. They are also offering career progression at a higher rate than other companies in the industry.
+Job Type: Full-time
+Salary: $100,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Application Question(s):
+Will you now or in the future require sponsorship or a visa transfer?
+Education:
+Bachelor's (Required)
+Work Location: One location"
+3,Data Scientist,Innover Global Inc,"$78,136 - $181,200 a year",Remote,,"Data Scientist
+Location: North Chicago
+Duration: Long Term
+Requirement:
+· Classical data scientist preferably graduates of Indian Statistical Institute or university of Chicago who is keen on cluster analytics
+· We are working on the supplier simplification for each of the categories of purchases where we want to utilize the cluster analytics
+· The candidate should also be expert in matching algorithms – We need someone to match disparate data elements so that we can determine the vendor hierarchy
+· Estimate the cost burden of maintaining an extra supplier in AbbVie’s ecosystem
+Job Types: Full-time, Part-time, Contract
+Salary: $78,136.00 - $181,200.00 per year
+Schedule:
+8 hour shift
+Experience:
+Azure: 1 year (Preferred)
+AWS: 1 year (Preferred)
+Work Location: Remote"
+4,Junior Data Scientist (NYC or Remote),ViacomCBS,,"New York, NY 10036 (Midtown area)+1 location•Remote",3.9,"ViacomCBS (NASDAQ:
+VIAC; VIACA) is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic consumer brands, its portfolio includes CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto TV and Simon & Schuster, among others. The company delivers the largest share of the U.S. television audience and boasts one of the industry's most important and extensive libraries of TV and film titles. In addition to offering innovative streaming services and digital video products, ViacomCBS provides powerful capabilities in production, distribution and advertising solutions for partners on five continents.
+Are you passionate about using data to help drive insights in media and entertainment? ViacomCBS is looking for a Jr. Data Scientist who is excited work on some of the hottest topics in media technology today: big data, data visualization, modeling, machine learning, and most importantly, the translation of data into new products, tools, and insights. Come join the Data & Decision Sciences Group - a team of data scientists, data engineers, and full stack developers who are using the latest technology to understand our content and audiences. Our ideal candidate is a motivated data scientist who is excited to support ViacomCBS's data strategy by helping to build products for researchers across our core brands including CBS, Nickelodeon, MTV, Comedy Central, Paramount, VH1, BET, Pluto TV, and more!
+You will work with a wide range of data sets (metered measurement data, syndicated data, survey data, streaming platform data) to mine, analyze, forecast, segment, predict, and ultimately drive insights and build new data delivery tools. You will also gain media industry experience by understanding both ViacomCBS's business needs and existing data assets in order to connect the dots and build innovative and interactive data solutions. Example projects include but are not limited to:
+Developing products and tools that allow for easier access to all data and flexible and real time reporting.
+Aggregating viewing data to create predictive models for audience growth, programming opportunity, and optimal marketing plans.
+Creating data maps and taxonomies from disparate data sets and the development of standardized KPIs/metrics for insights.
+Crafting processes and techniques to effectively fuse custom survey data sets to viewing as well as fusing different measurement data sets together.
+Construction of data pipelines and architecture to keep our products available and accurate for our stakeholders. Qualifications:
+Qualifications:
+Interest in one the following:
+data science, statistics, big data, research (survey and measurement-based), data platform architecture, BI, data visualization, and data automation.
+B.A. / B.S. (M.S. or Ph.D. is a plus) in Statistics, Computer Science, Mathematics, Social Sciences, Physics, Computational Biology, Sociology, Cognitive Science, or another quantitative field.
+Expertise in Python, R or SQL.
+Experience with statistical techniques, modeling, and machine learning.
+Interest in creating, building, and architecting data dashboards and platforms in cloud environments.
+ViacomCBS is an equal opportunity employer (EOE) including disability/vet.
+At ViacomCBS, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. ViacomCBS is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.viacomcbs.com/careers as a result of your disability. You can request reasonable accommodations by calling
+212.846.5500
+or by sending an email to viacomaccommodations@viacom.com. Only messages left for this purpose will be returned."
+5,Data Scientist,"Rocket Travel, Inc.","$95,000 - $125,000 a year",New York State•Remote,,"Rocket Travel is looking for a
+Data Scientist
+with experience in Python and SQL to join our growing Data Science Team.
+Remote employment is an option for this role
+The Data Science Team oversees building internal-facing decision making tools and product-facing production models that aid in scaling our growing business.
+Rocket Travel is a place where you:
+Work with a group of intrinsically motivated people
+with a track record for building successful new businesses from scratch.
+Embody curiosity, community, and accountability.
+We live and build products by these values every day.
+Own decisions and take action
+that can be implemented in a matter of days (or hours).
+Get inspired
+and encouraged to vacation faster, with an annual vacation stipend.
+Receive a competitive compensation package
+, including bonus, 401k with match, flexible vacation time, maternity and paternity benefits, health, and dental insurance.
+Total Compensation is based on experience - Sign-on bonus + Salary: $95k - $125k + Bonus: 15% - 20%
+Can have the option to work remotely.
+Though we have great offices in Chicago's West Loop and in NYC's Empire State building, we have a hybrid team, a flexible work environment, and
+we welcome full-time remote applicants, too.
+Share your passion for travel
+with equally adventurous teammates.
+Work within the largest online travel company in the world.
+Rocket Travel creates B2C and B2B2C travel products and is part of Booking Holdings (BKNG). We have many worldwide partners and a diversified business. Despite the world's current situation, Booking Holdings has been rated the healthiest company in travel, and Rocket itself is already seeing travel demand surpass pre-pandemic levels
+As a Data Scientist at Rocket Travel, you will:
+Develop and iterate on models that help us grow our business. Examples of projects could include:
+Building sql data pipelines and dashboards for front-end analytics
+Evaluating and Prototyping new metrics to better measure A/B test results
+Evolve the Rocket data science toolkit by identifying and recommending best tools for each task. Examples of technologies that we experimented and adopted in the past include: MLflow, Sagemaker, DBT, Jenkins
+Work closely with data scientists and business stakeholders to further define requirements for projects and drive business value. Some projects may not be fully defined, so you should be comfortable with ambiguity and take a resourceful approach to what's needed and drive results.
+About you:
+You have worked with Python/SQL in a professional setting. Bonus points if you worked with AWS or Redshift
+You have hands-on experience with SQL and can write complex queries with ease. You have experience building batch and real-time data pipelines. Bonus points if you have worked with Airflow and dbt
+You have a solid understanding of machine learning and statistics
+You are intellectually curious and self-directed
+problem solver, keen to work on a variety of data projects and independently search for answers
+You are passionate about how your data projects translates
+into better customer experience and higher business value
+You communicate clearly and effectively
+About Rocket Travel
+We make travel more rewarding than anyone else
+Rocket Travel awards customers for booking travel through our products, allowing people to earn or use loyalty benefits from their favorite loyalty programs.
+Our journey
+We began in 2013 with the same goal of making travel even more rewarding. This started with our bespoke Rocketmiles website, earning travelers their favorite airline loyalty miles for hotel bookings, and every year since, we've advanced our goal.
+We now partner with over 60 loyalty programs that travelers can choose from, we build unique partner-branded travel sites, we offer the ability to earn and redeem loyalty rewards, we sit within Booking Holdings—the most experienced Group of travel companies in the world—and we continually grow the number of ways that people can book travel through us, from stays to cars and more.
+Travel constantly evolves, opening additional opportunities to create rewarding experiences, and we intend to be at the forefront of building and innovating on those for travelers worldwide.
+A diverse and global team
+Our teammates work across the globe, in person and remotely. We have offices in Chicago, NYC, Bangkok, Bogota, Kuala Lumpur, Manila, and Cebu. No matter where people work, our main team-building goal is to create a diverse, equitable, and inclusive environment. We do that with a Diversity and Inclusion Committee, setting DEI hiring goals, investing in employee retention, and conducting regular team training that fosters collaboration and morale.
+All of these efforts help ensure that we're promoting a supportive workplace, where people are motivated to grow professionally and build rewarding travel experiences together.
+Note on general employment requirements
+Candidates should be authorized to accept employment in the US from any employer, should be willing to start within three weeks of accepting an offer, and should be able to work the same daily working hours as our Chicago office.
+A final word
+If the idea of working within an environment that promotes accountability, curiosity, and community to build reward travel products sounds motivating to you, we would love to hear from you—even if you're unable to meet 100% of the job requirements. We never expect people to have all of the answers, as long as they're willing and able to learn and grow with us.
+#BI-Remote"
+6,Data Scientist,Prescient,"$40,883 - $135,440 a year","Newark, NJ",,"· Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.
+· Good understanding of mathematics, statistics, and algorithms.
+Job Type: Full-time
+Salary: $40,883.00 - $135,440.00 per year
+Schedule:
+8 hour shift"
+7,Data Scientist,PayPal,,"Bellevue, WA 98004 (Downtown area)+11 locations",3.9,"Who we are:
+At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives. We’re a purpose-driven company, and our beliefs are the foundation of how we conduct business every day. We’re guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Collectively, these values inspire us to work together as One Team with our customers at the center of everything we do, and to take care of ourselves, each other, and the communities in which we live and work. We challenge the status quo, ask questions, and find solutions. Join us as we enable the hopes, dreams, and ambitions of millions of people around the world.
+Job Description Summary:
+n/a
+Job Description:
+n/a
+For more than 20 years, PayPal has remained at the forefront of the digital payment revolution. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, our open digital payments platform gives PayPal’s 400 million active account holders the confidence to connect and transact in new and powerful ways. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying, or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities."
+8,Data Scientist or Bioinformatician,UT Southwestern Medical Center,"$60,000 - $100,000 a year",+8 locationsRemote,3.8,"Center Information:
+The Quantitative Biomedical Research Center (QBRC) is a well-established research center at UT Southwestern Medical Center (UTSW). It aims to foster collaborations involving quantitative methods and technologies in any aspect of biomedical research, particularly for understanding disease etiologies and developing treatment and prevention strategies. Currently, the center has 8 faculty members, around 40 staff members, postdocs and student research assistants. We are actively recruiting new members to join this new and dynamic group.
+Position Title:
+Data Scientist I, II, III, Computational biologist I, II, III or Postdoctoral Fellow (Bioinformatics/Biostatistics)
+Duties & Responsibilities:
+For bioinformatics scientists, the projects include developing novel method for analysis and integration of multiple-omics data, and single cell genomics and transcriptome analysis. For data scientists, the projects include assembling and statistical analyses of big clinical data, and application of machine learning and deep learning methods on real medical problems.
+At UTSW, there are great opportunities for scientists to collaborate with outstanding biomedical investigators and work on exciting research projects. UT Southwestern provides a friendly, dynamic, collaborative, and integrative research and training environment with state-of-the-art facilities.
+Position Qualifications:
+Candidates should have a doctoral degree in either one of the following fields, including genetics/genomics, bioinformatics, computer science, biostatistics, computational biology or a related field. Programming skills in Python, Perl or R is preferred. Experience for deep learning is highly preferred for data scientist position.
+Related websites:
+QBRC:
+https://qbrc.swmed.edu/
+Application Deadline:
+until filled
+UT Southwestern Western Medical Center is an Affirmative Action/Equal Opportunity Employer. Women, minorities, veterans and individuals with disabilities are encouraged to apply.
+Job Type: Full-time
+Pay: $60,000.00 - $100,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee discount
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Commission pay
+Signing bonus
+Education:
+Doctorate (Preferred)
+Work Location: Remote"
+9,Junior Data Labeler,Deloitte,,"Rosslyn, VA 22209 (Radnor-Ft Myer Heights area)+2 locations",4.0,"Junior Data Labeler
+In this age of disruption, organizations need to navigate the future with confidence by tapping into the power of data analytics, robotics, and cognitive technologies such as Artificial Intelligence (AI). Our Strategy & Analytics portfolio helps clients leverage rigorous analytical capabilities and a pragmatic mindset to solve the most complex of problems. By joining our team, you will play a key role in helping to our clients uncover hidden relationships from vast troves of data and transforming the Government and Public Services marketplace.
+Work you'll do
+The Junior Data Labeler will be focused on annotating tasks and delivering high quality results by following a variety of instructions.
+The best candidate for this role will be:
+Label machine learning data from customers
+Complete tasks in a timely manner, meeting SLA deadlines
+Work in-sync with Supply Managers to meet weekly goals
+Provide feedback to respective teams on product improvement
+The team
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+The GPS Analytics and Cognitive (A&C) offering is responsible for developing advanced analytics products and applying data visualization and statistical programming tools to enterprise data in order to advance and enable the key mission outcomes for our clients. Our team supports all phases of analytic work product development, from the identification of key business questions through data collection and ETL, and from performing analyses and using a wide range of statistical, machine learning, and applied mathematical techniques to delivery insights to decision-makers. Our practitioners give special attention to the interplay between data and the business processes that produce it and the decision-makers that consume insights.
+Qualifications
+Required:
+Must be a US Citizen and must be able to pass Background Check
+Must possess and maintain a FINAL Secret Security Clearance
+Experience with using technology and inputting data"
+10,Data Science Apprenticeship,Arkansas Center for Data Sciences,,"Rogers, AR",,"Calling all data lovers in Northwest Arkansas. Self-taught, Datacamp bootcampers, or
+current reporting analysts
+wanting to take your career to the next level in Data Science and Analytics! If you have a solid understanding within
+Mathematics & Statistics
+and are interested in using
+AI, Automation & Machine Learning
+, we want to talk to you!
+ACDS is helping our company partner to add
+10 Junior Data Science Apprentices
+to their team in Northwest Arkansas. This is a great mid seniority-level job opportunity to help expand your analytical and technical skills in Data Science.
+Job Responsibilities:
+Support the identification of the most suitable source for data and propose simple models by developing initial drafts.
+Conduct exploratory data analysis activities (for example, basic statistical analysis, hypothesis testing, statistical inferences).
+Define and finalize features based on model responses and introduce new or revised features to enhance the analysis and outcomes.
+Perform trend and cluster analysis to answer practical business problems and provide recommendations and key insights to the business.
+Write, test, and maintain code to develop the required solution and application features by using the recommended programming language and leveraging business, technical, and data requirements.
+Translate business problems to data related or mathematical solutions. Identify what methods (for example, analytics, big data analytics, automation) would provide a solution for the problem.
+Generate appropriate graphical representations of data and model outcomes under guidance.
+Note: Duties & tools will vary based on specific department
+What's a successful candidate look like?
+Exposure to data science, machine learning, optimization models, operations research, statistics, applied mathematics, or econometrics
+Self-taught or data manipulation project experience from school using Python, Spark, Scala, or R
+Intermediate to advanced level MS Excel
+Exposure to Data Visualization tools such as Power BI or Tableau
+Experience with open source frameworks (for example, scikit learn, tensorflow, torch)
+Requirements
+Ability to work in the United States without a current or future need for sponsorship
+Completed High School Diploma or GED equivalent
+Currently located in Northwest Arkansas or ability to quickly relocate if hired
+Work standard business hours of 8-5 Monday thru Friday; 40 hour work week
+What's an Apprenticeship?
+An apprenticeship is a full time position with a focus on learning! During your first year of employment, you are guaranteed formal training, a mentor, and a pay raise. Employers who have committed to the apprenticeship model for hiring are committing to building you and your career. You're encouraged to apply even if your experience doesn't precisely match the job description. Apprenticeship positions welcome diverse applicants who are looking to grow their career in IT!
+How does the interview process work?
+We want to get to know you! ACDS will conduct an initial phone interview and knowledge assessment. If your skills and interest match with the employer's needs, we'll share your resume or ask you to apply directly with them. After that, the employers will continue with their recruiting and interview process. If you are a match, an offer will be made for you to get started in your new apprenticeship role! We'll be here to make sure your apprenticeship year goes smoothly and that you are set up for career growth and success!
+Meet the team and join an upcoming virtual webinars via zoom; dates and details on our events page.
+Check out our YouTube page for past webinars and career tips!
+Learn more about us @ www.acds.co & LinkedIn, Facebook, Instagram & Twitter"
+11,"Data Scientist, Spotify Advertising",Spotify,,"New York, NY+8 locations•Remote",4.3,"Data, Research & Insights
+Data Science
+We work at the intersection of advertising and messaging technologies to connect millions of brands to billions of fans. As part of the Advertising team, we’re paving the way for a sustainable global Spotify business that allows even more creators to make a living off their art. Come join us and help build the platform that powers promotion at Spotify.
+Location
+New York or Remote Americas
+Job type
+Permanent
+We are currently recruiting for a number of data science roles within the multidisciplinary Spotify Ads Insights team. We are looking for experienced and accomplished Data Scientists to join us at the Associate/Data Scientist level.
+Our mission is to enable the product and business teams to meet their objectives through evidence based decision making and customer focus. As a data scientist in this group you will use the whole range of data science tools and capabilities to conduct analysis related to one or more of the following areas of focus:
+User facing advertising product development
+Client facing product development for advertisers and publishers
+Platform and machine learning engineering performance
+Product marketing
+Sales and operation
+Strategic research
+What you'll do
+Perform analyses on large sets of data to extract practical insights that will help drive product, platform and business decisions
+Design and conduct A/B tests to drive iterative improvement to both user and advertiser metrics through efficient experimentation
+Communicate data-driven insights and recommendations to key partners
+Work closely with cross-functional teams of engineers, user researchers, product owners, designers and business decision makers who are passionate about Spotify’s success
+Build lasting solutions to surface critical data and performance metrics
+Help us develop our knowledge and practice around the development and evaluation ML driven and user focused products
+Develop individually to continue to grow your impact, and help mentor peers
+Who you are
+You have experience in a similar data science role and a degree in science, computer science, statistics, economics, mathematics, or similar quantitative subject area.
+Based on your experience and expertise we will match you to one of two levels during the interview process - Associate Data Scientist or Data Scientist. Associate roles are open to people in the beginning and early stages of their career.
+Ideally you have experience working in an analytics role that focuses on improving internal decision making while working with one of - platform teams, ML functions, product teams, sales teams or marketing teams and have conducted A/B tests, defined metrics and delivered exploratory analyses.
+You have the technical competence to perform more advanced analytics:Coding skills for analytics and data extraction (SQL, R, Python, Pandas)Data visualization (such as Tableau, D3, ggplot, Looker)
+Experience performing analysis with large datasets
+Strong understanding of statistics and machine learning
+You value cross-disciplinary work and understand how to match qualitative research with your quantitative analysis.
+You are capable of solving very loosely defined problems.
+You are a communicative person that values building strong relationships with colleagues and collaborators and have the ability to explain complex topics in simple terms.
+You are curious, exhibit a growth mindset and are excited by working on a constantly evolving team
+Where you'll work
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within the Americas region in which we have a work location
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+Working hours? We operate within the Eastern Standard time zone for collaboration
+Our global benefits
+Extensive learning opportunities, through our dedicated team, GreenHouse.
+Flexible share incentives letting you choose how you share in our success.
+Global parental leave, six months off - fully paid - for all new parents.
+All The Feels, our employee assistance program and self-care hub.
+Flexible public holidays, swap days off according to your values and beliefs.
+Spotify On Tour, join your colleagues on trips to industry festivals and events.
+Learn about life at Spotify
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 381 million users.
+Global COVID and Vaccination Disclosure
+Spotify is committed to safety and well-being of our employees, vendors and clients. We are following regional guidelines mandating vaccination and testing requirements, including those requiring vaccinations and testing for in-person roles and event attendance. For the US, we have mandated that all employees and contractors be fully vaccinated in order to work in our offices and externally with any third-parties. For all other locations, we strongly encourage our employees to get vaccinated and also follow local COVID and safety protocols."
+12,Data Scientist,Hungryroot,,New York State•Remote,3.5,"Who We Are
+Hungryroot is your personal grocer, powered by AI and the belief that food deeply impacts your daily life. You tell us a little about yourself, and we use proprietary predictive technology to deliver groceries and recipes that best suit your individual needs and goals. We also assist with meal planning and nutritional support, helping you save time, save money, shop sustainably, and eat what makes you feel your best.
+We are a distributed team built on top talent from over 10 states across the U.S. While we have an office in NYC, we support employees creating ""offices"" wherever they are. We believe in fostering team connection and collaboration across all of our ""offices"" - so don't expect to be online at 6 am to make a meeting if you're on the West coast. Expect to attend regular team building events, and to be able to work from the beach every once in a while. Expect to be treated like an owner who cares about our common goal, not someone who has to clock in and out of work.
+Hungryroot is more than doubling in revenue year-over-year, profitable, and rapidly growing - this is why we need you!
+What You'll Do
+Hungryroot is looking for a Data Scientist to join our growing Data Team. As a Data Scientist, you will work closely with other Data Scientists and Data Engineers to develop various Machine Learning models that power Hungryroot and it's AI functions. These models include traditional forecasting models, as well as more industry-specific optimization challenges.
+As a Data Scientist at Hungryroot, you will work on answering questions like: how do you tell what food someone would like to eat this week, how do you determine whether they enjoyed it or not, maybe they liked their means last week, but are now looking for different options, maybe they like the same food on Tuesdays, but variety on Fridays, what about spicy food, is Green Chilly as spicy as Green Curry?
+Food is an untapped resource in the world of Data Science, and Hungryroot is at the forefront in this space. Our team builds models to understand human taste, and provide the best food to our customers week after week.
+Come join our team, apply your Machine Learning passion to a new space, and have fun in the process!
+How You'll Make an Impact
+Work with the other Data Scientists in creating new predictive models
+Collaborate with the other Data Scientists in creating personalization models (recommender systems, user preference models,...)
+Build operations optimization models (what food we deliver to whom)
+Partner with the Data Engineers to integrate the models in the production pipeline
+Be data-driven and analytical when it comes to understand experiment results, derive conclusions, and help the team move forward
+Why We Need You
+Recent experience programming with Python and Scala
+Familiarity working with traditional machine learning and optimization techniques
+Knowledge of AWS
+Perks & Benefits
+Remote Work Optional: Work from home, work from our NYC office, work from anywhere, you decide!
+Competitive compensation + comprehensive Medical, Dental, and Vision benefits
+Unlimited vacation policy
+Monthly Hungryroot credit
+Universal paid parental leave
+401k
+Commuter benefits
+A working environment filled with passionate, happy, smart people!
+#LI-REMOTE
+Hungryroot is built on the values of being proactive, positive, and transparent in all that we do. Our mission to help make healthy eating easy, accessible, and joyful is better served by a diverse workplace.
+We are a proud Equal Opportunity Employer committed to building an inclusive workplace. We have zero-tolerance for harassment or discrimination. We do not discriminate on the basis of race, religion, ethnicity, national origin, gender identity, gender expression, sexual orientation, age, marital status, veteran status, or disability."
+13,Data Scientist,Red Dot Storage,,"Houston, TX•Remote",4.0,"Red Dot Storage is looking for a driven
+Data Scientist
+to join our Data Science team just outside Boulder, CO or remotely from Houston, TX
+View the Job Posting"
+14,Junior Data Scientist,PIÑATA SCIENCES,,"Boston, MA",,"Pinata Scienes is looking for an up and coming Data Scientist. This data driven individual will work to support our data science team to deliver scalable solutions that provide real-word business value. In addition to building solutions, you must possess the aptitude and hunger to learn. As an energetic data scientist you will be responsible for taking in person findings and developing practical business solutions for our clients. In order to succeed in this role, you must be passionate about solving business problems using data science.
+Come bust open some data with us!
+MAIN REQUIREMENTS:
+Some experience building and implementing predictive models
+Excellent customer engagement skills
+Strong organizational, communication, writing and interpersonal skills
+Expereience with a variety of technical tools for the manipulation of datasets
+1-2 years of real-world business experience
+Up to 50% travel
+DESIRED SKILLS:
+Experience with machine learning techniques
+Fluency with scripting (Python / R)
+Experience with Hadoop and related Big Data technologies"
+15,Data Scientist,Innover Global Inc,"$78,136 - $181,200 a year",Remote,,"Data Scientist
+Location: North Chicago
+Duration: Long Term
+Requirement:
+· Classical data scientist preferably graduates of Indian Statistical Institute or university of Chicago who is keen on cluster analytics
+· We are working on the supplier simplification for each of the categories of purchases where we want to utilize the cluster analytics
+· The candidate should also be expert in matching algorithms – We need someone to match disparate data elements so that we can determine the vendor hierarchy
+· Estimate the cost burden of maintaining an extra supplier in AbbVie’s ecosystem
+Job Types: Full-time, Part-time, Contract
+Salary: $78,136.00 - $181,200.00 per year
+Schedule:
+8 hour shift
+Experience:
+Azure: 1 year (Preferred)
+AWS: 1 year (Preferred)
+Work Location: Remote"
+16,Entry Level - Masters Degree Data Scientist,General Motors,Estimated $73.8K – $93.4K a year,"Warren, MI+3 locations•Remote",4.0,"Job Description
+About GM
+There's never been a more exciting time to work for General Motors.
+To achieve our vision of a world with Zero Crashes, Zero Emissions and Zero Congestion, we need people to join us who are passionate about creating safer, better and more sustainable ways for people to get around. This bold vision won't happen overnight, but just as we transformed how the world moved in the last century, we are committed to transforming how we move today and in the future.
+Why Work for Us
+Our culture is focused on building inclusive teams, where differences and unique perspectives are embraced so you can contribute to your fullest potential as you pursue your career. Our locations feature a variety of work environments, including openwork spacesand virtual connection platforms to inspire productivity and flexible collaboration. And we are proud to support our employees volunteerinterests,andmake it a priority to join together in efforts that give back to our communities.
+Job Description
+General Motorshasan exciting opportunity forrecentcollege graduateswho are technical, innovative, problem solverstoapply toour Analytics Career Evolution (ACE)development program.
+Employees hired intothe ACE program willhave an opportunity toacceleratetheirprofessionalexperienceand expand their networkbyworkingacross severalareas of GMfor the fewyearsoftheiremployment.The ACE development program will provide a vast number ofexciting projects, visibility to senior leadership, robusttraining,and networking opportunities.
+At the end of thedevelopmentprogram,ACEemployees willhave an opportunity to work withACEprogram leaders and human resources to find their next role within general motors.In anticipation of these opportunities becoming available, if you are interested in learning more about GM, completing this profile will allow us to stay connected.
+If you share our passion for reimagining transportation and creating a safer,betterand more sustainable future, we encourage you to learn more about our available positions and apply today!
+Weare looking for DataScienceprofessionals who:
+Have a steadfast drive for excellence
+Challenge themselves and their peers
+Enjoy working collaboratively in cross-functional teams
+Demonstrate a good work ethic
+Have a strong ability and willingness to learn
+Exhibit curiosity and are willing to explore new possibilities and solutions
+Understand advanced math and analytics concepts, andcanapply them to real applications
+Desire to deliver innovative solutions to complex problems
+Role -
+as a Data Scientist, you will be applying Modeling techniques to tackle complex business problems. They are responsible for building predictive models and machine-learning algorithms, analyzing large amounts of information to discover trends and patterns, and deploying analytical solutions, including visualizations and predictive models.
+Additional Job Description
+Requirements:
+Education:Master'sdegree - Mathematics, Computer Science,Statistics,Economics, Social Science,or other quantitative degree preferred
+Preferred academic or work experience in a data-intensive field/industry such as biotechnology, computational chemistry, cognitive or neurosciences, behavioral economics, econometrics, engineering, physics, quantitative finance, high frequency trading or intelligence analytics
+Hands-on text analytics and NLP (natural language processing) experience in a corporate setting is a plus.
+Job locations will be in Warren or Detroit, Michigan; some roles will consider remote work
+Technical Experience:
+Language proficiency in Python, R, Spark, Scala
+Experience in big data tools and databases: Hadoop, TensorFlow, Greenplum, Spark, Kafka, AdvancedSQLand NoSQL including Postgres and Cassandra
+Data Visualization: PowerBI, Tableau, JMP or similar
+This role offers the following
+Work Appropriately
+strategies:
+Remote:
+The selected candidate can reside and perform the work from anywhere within the United States.
+Hybrid:
+This position does not require an employee to be onsite full-time to perform most effectively. The employee's role enables them to work at a GM facility or off-site as frequently as needed or desired.
+Relocation assistance is available to candidates who meet eligibility requirements.
+PLEASE ONLY APPLY IF YOU DO NOT NEED SPONSORSHIP TO WORK IN THE UNITED STATES NOW OR IN THE FUTURE. WE ARE UNABLE TO CONSIDER CANDIDATES WHO REQUIRE SPONSORSHIP.
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+Why Join Us
+We aspire to be the most inclusive company in the world. We believe we all must make a choice every day - individually and collectively - to drive meaningful change through our words, our deeds and our culture. Our Work Appropriately philosophy supports our foundation of inclusion and provides employees the flexibility to work where they can have the greatest impact on achieving our goals, dependent on role needs. Every day, we want every employee, no matter their background, ethnicity, preferences, or location, to feel they belong to one General Motors team.
+Benefits Overview
+The goal of the General Motors total rewards program is to support the health and well-being of you and your family. Our comprehensive compensation plan incudes, the following benefits, in addition to many others:
+Paid time off including vacation days, holidays, and parental leave for mothers, fathers and adoptive parents;
+Healthcare (including a triple tax advantaged health savings account and wellness incentive), dental, vision and life insurance plans to cover you and your family;
+Company and matching contributions to 401K savings plan to help you save for retirement;
+Global recognition program for peers and leaders to recognize and be recognized for results and behaviors that reflect our company values;
+Tuition assistance and student loan refinancing;
+Discount on GM vehicles for you, your family and friends.
+Diversity Information
+General Motors is committed to being a workplace that is not only free of discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that workforce diversity creates an environment in which our employees can thrive and develop better products for our customers. We understand and embrace the variety through which people gain experiences whether through professional, personal, educational, or volunteer opportunities.GM is proud to be an equal opportunity employer.
+We encourage interested candidates to review the key responsibilities and qualifications and apply for any positions that match your skills and capabilities.
+Equal Employment Opportunity Statements
+The policy of General Motors is to extend opportunities to qualified applicants and employees on an equal basis regardless of an individual's age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity/expression or veteran status. Additionally, General Motors is committed to being an Equal Employment Opportunity (EEO) Employer and offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us atCareers.Accommodations@GM.com. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying."
+17,Junior Data Scientist (NYC or Remote),ViacomCBS,Estimated $104K – $132K a year,"New York, NY 10036 (Midtown area)+1 location•Remote",3.9,"ViacomCBS (NASDAQ:
+VIAC; VIACA) is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic consumer brands, its portfolio includes CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto TV and Simon & Schuster, among others. The company delivers the largest share of the U.S. television audience and boasts one of the industry's most important and extensive libraries of TV and film titles. In addition to offering innovative streaming services and digital video products, ViacomCBS provides powerful capabilities in production, distribution and advertising solutions for partners on five continents.
+Are you passionate about using data to help drive insights in media and entertainment? ViacomCBS is looking for a Jr. Data Scientist who is excited work on some of the hottest topics in media technology today: big data, data visualization, modeling, machine learning, and most importantly, the translation of data into new products, tools, and insights. Come join the Data & Decision Sciences Group - a team of data scientists, data engineers, and full stack developers who are using the latest technology to understand our content and audiences. Our ideal candidate is a motivated data scientist who is excited to support ViacomCBS's data strategy by helping to build products for researchers across our core brands including CBS, Nickelodeon, MTV, Comedy Central, Paramount, VH1, BET, Pluto TV, and more!
+You will work with a wide range of data sets (metered measurement data, syndicated data, survey data, streaming platform data) to mine, analyze, forecast, segment, predict, and ultimately drive insights and build new data delivery tools. You will also gain media industry experience by understanding both ViacomCBS's business needs and existing data assets in order to connect the dots and build innovative and interactive data solutions. Example projects include but are not limited to:
+Developing products and tools that allow for easier access to all data and flexible and real time reporting.
+Aggregating viewing data to create predictive models for audience growth, programming opportunity, and optimal marketing plans.
+Creating data maps and taxonomies from disparate data sets and the development of standardized KPIs/metrics for insights.
+Crafting processes and techniques to effectively fuse custom survey data sets to viewing as well as fusing different measurement data sets together.
+Construction of data pipelines and architecture to keep our products available and accurate for our stakeholders. Qualifications:
+Qualifications:
+Interest in one the following:
+data science, statistics, big data, research (survey and measurement-based), data platform architecture, BI, data visualization, and data automation.
+B.A. / B.S. (M.S. or Ph.D. is a plus) in Statistics, Computer Science, Mathematics, Social Sciences, Physics, Computational Biology, Sociology, Cognitive Science, or another quantitative field.
+Expertise in Python, R or SQL.
+Experience with statistical techniques, modeling, and machine learning.
+Interest in creating, building, and architecting data dashboards and platforms in cloud environments.
+ViacomCBS is an equal opportunity employer (EOE) including disability/vet.
+At ViacomCBS, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. ViacomCBS is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.viacomcbs.com/careers as a result of your disability. You can request reasonable accommodations by calling
+212.846.5500
+or by sending an email to viacomaccommodations@viacom.com. Only messages left for this purpose will be returned."
+18,Data Scientist,PayPal,Estimated $70.8K – $89.6K a year,"Bellevue, WA 98004 (Downtown area)+11 locations",3.9,"Who we are:
+At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives. We’re a purpose-driven company, and our beliefs are the foundation of how we conduct business every day. We’re guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Collectively, these values inspire us to work together as One Team with our customers at the center of everything we do, and to take care of ourselves, each other, and the communities in which we live and work. We challenge the status quo, ask questions, and find solutions. Join us as we enable the hopes, dreams, and ambitions of millions of people around the world.
+Job Description Summary:
+n/a
+Job Description:
+n/a
+For more than 20 years, PayPal has remained at the forefront of the digital payment revolution. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, our open digital payments platform gives PayPal’s 400 million active account holders the confidence to connect and transact in new and powerful ways. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying, or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities."
+19,"Data Scientist, Game Analytics & Strategy",the NBA,Estimated $105K – $133K a year,"New York, NY 10022 (Midtown area)+1 location",4.2,"At the NBA, we’re passionate about growing and celebrating the game of basketball. Through the intensity of the game and the amazing athletic skill of our players, we deliver excitement to hundreds of millions of fans around the world. As a global sports and media business, the NBA is so much more. While Basketball Operations runs the league’s on-court activities, other departments manage relationships with television and digital media partners, develop marketing partnerships with some of the world’s most recognizable companies, oversee the licensing of NBA merchandise, and handle a wide range of responsibilities that drive the NBA’s success.
+The NBA is committed to providing a safe and healthy workplace. To safeguard our employees and their families, our visitors and the broader community from COVID-19, and in consideration of recommendations from health authorities and the NBA’s own advisors, any individual working onsite in our New York and New Jersey offices must be fully vaccinated against COVID-19. The NBA will discuss accommodations for individuals who cannot be vaccinated due to a medical reason or sincerely held religious belief, practice, or observance.
+Position Summary:
+At the NBA, we're passionate about growing and celebrating the game of basketball. Through the intensity of the game and the amazing athletic skill of our players, we deliver excitement to hundreds of millions of fans around the world. As a global sports and media business, the NBA is so much more. While Basketball Operations runs the league's on-court activities, other departments manage relationships with television and digital media partners, develop marketing partnerships with some of the world's most recognizable companies, oversee the licensing of NBA merchandise, and handle a wide range of responsibilities that drive the NBA's success. The Data Scientist will support the Senior Vice President, Game Analytics & Strategy in analyzing, maintaining, and presenting data to support various decisions. This role also will assist in selecting new initiatives and executing long-term projects aligned with the goals of the Game Analytics & Strategy group. You will be responsible for designing and performing rigorous statistical analysis and visualizations in support of league operations decision-making; focusing on referee performance, rule changes, game play and any other questions related to cross-departmental initiatives when needed, such as player health and performance.
+Major Responsibility:
+Generate ideas and innovate analytics to support the Game Analytics & Strategy group
+Responsibilities include, among other things, collaborating on research for both ongoing and case- by-case studies, planning and/or conducting statistical analysis, developing material for internal and external dissemination, and presenting research findings
+Perform exploratory analysis of new data sources to assess data quality and applicability in decision-making
+Produce stats-based reporting
+Craft professional-looking presentations and reports to effectively communicate statistical findings
+Help design procedures to maintain data integrity
+Required Skills/Knowledge:
+Experienced understanding of advanced methods used to analyze basketball statistics
+A real passion for analytical work in sports. Ability to maintain the highest level of confidentiality
+Applied knowledge of statistical regression methods
+Supervised and unsupervised learning techniques in machine learning (e.g. dimensionality reduction and clustering)
+Experience with a database management language (e.g. SQL) as well as scripting languages (e.g. R or Python)
+Experience working with data visualization tools (e.g. Shiny or Tableau)
+Experience deploying and maintaining projects in production
+Ability to work independently, effectively and efficiently with high-levels of curiosity and detail
+Excellent technical writer and communicator with an eye for detail
+Handle changing priorities in a dynamic, fast-paced environment
+Creative and innovative thinker with excellent written, and interpersonal skills
+Preferable: minimum of 3 - 5 years of professional work experience in a business environment, ideally in roles that have relied heavily on technical, communication and presentation skills, or commensurate experience (i.e. graduate level work, particularly in statistics or computer science)
+Education:
+Bachelor's Degree Required; Major in Mathematics, Statistics, Econometrics or related discipline or Master's Degree are preferred
+We Consider Applicants For All Positions On The Basis Of Merit, Qualifications And Business Needs, And Without Regard To Race, Color, National Origin, Religion, Sex, Gender Identity, Age, Disability, Alienage Or Citizenship Status, Ancestry, Marital Status, Creed, Genetic Predisposition Or Carrier Status, Sexual Orientation, Veteran Status, Familial Status, Status As A Victim Of Domestic Violence Or Any Other Status Or Characteristic Protected By Applicable Federal, State, Or Local Law."
+20,"Data Scientist, Spotify Advertising",Spotify,Estimated $122K – $155K a year,"New York, NY+8 locations•Remote",4.3,"Data, Research & Insights
+Data Science
+We work at the intersection of advertising and messaging technologies to connect millions of brands to billions of fans. As part of the Advertising team, we’re paving the way for a sustainable global Spotify business that allows even more creators to make a living off their art. Come join us and help build the platform that powers promotion at Spotify.
+Location
+New York or Remote Americas
+Job type
+Permanent
+We are currently recruiting for a number of data science roles within the multidisciplinary Spotify Ads Insights team. We are looking for experienced and accomplished Data Scientists to join us at the Associate/Data Scientist level.
+Our mission is to enable the product and business teams to meet their objectives through evidence based decision making and customer focus. As a data scientist in this group you will use the whole range of data science tools and capabilities to conduct analysis related to one or more of the following areas of focus:
+User facing advertising product development
+Client facing product development for advertisers and publishers
+Platform and machine learning engineering performance
+Product marketing
+Sales and operation
+Strategic research
+What you'll do
+Perform analyses on large sets of data to extract practical insights that will help drive product, platform and business decisions
+Design and conduct A/B tests to drive iterative improvement to both user and advertiser metrics through efficient experimentation
+Communicate data-driven insights and recommendations to key partners
+Work closely with cross-functional teams of engineers, user researchers, product owners, designers and business decision makers who are passionate about Spotify’s success
+Build lasting solutions to surface critical data and performance metrics
+Help us develop our knowledge and practice around the development and evaluation ML driven and user focused products
+Develop individually to continue to grow your impact, and help mentor peers
+Who you are
+You have experience in a similar data science role and a degree in science, computer science, statistics, economics, mathematics, or similar quantitative subject area.
+Based on your experience and expertise we will match you to one of two levels during the interview process - Associate Data Scientist or Data Scientist. Associate roles are open to people in the beginning and early stages of their career.
+Ideally you have experience working in an analytics role that focuses on improving internal decision making while working with one of - platform teams, ML functions, product teams, sales teams or marketing teams and have conducted A/B tests, defined metrics and delivered exploratory analyses.
+You have the technical competence to perform more advanced analytics:Coding skills for analytics and data extraction (SQL, R, Python, Pandas)Data visualization (such as Tableau, D3, ggplot, Looker)
+Experience performing analysis with large datasets
+Strong understanding of statistics and machine learning
+You value cross-disciplinary work and understand how to match qualitative research with your quantitative analysis.
+You are capable of solving very loosely defined problems.
+You are a communicative person that values building strong relationships with colleagues and collaborators and have the ability to explain complex topics in simple terms.
+You are curious, exhibit a growth mindset and are excited by working on a constantly evolving team
+Where you'll work
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within the Americas region in which we have a work location
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+Working hours? We operate within the Eastern Standard time zone for collaboration
+Our global benefits
+Extensive learning opportunities, through our dedicated team, GreenHouse.
+Flexible share incentives letting you choose how you share in our success.
+Global parental leave, six months off - fully paid - for all new parents.
+All The Feels, our employee assistance program and self-care hub.
+Flexible public holidays, swap days off according to your values and beliefs.
+Spotify On Tour, join your colleagues on trips to industry festivals and events.
+Learn about life at Spotify
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 381 million users.
+Global COVID and Vaccination Disclosure
+Spotify is committed to safety and well-being of our employees, vendors and clients. We are following regional guidelines mandating vaccination and testing requirements, including those requiring vaccinations and testing for in-person roles and event attendance. For the US, we have mandated that all employees and contractors be fully vaccinated in order to work in our offices and externally with any third-parties. For all other locations, we strongly encourage our employees to get vaccinated and also follow local COVID and safety protocols."
+21,Data Scientist,Red Dot Storage,Estimated $84.4K – $107K a year,"Houston, TX•Remote",4.0,"Red Dot Storage is looking for a driven
+Data Scientist
+to join our Data Science team just outside Boulder, CO or remotely from Houston, TX
+View the Job Posting"
+22,DATA SCIENTIST,Durham County,"$65,072 - $117,129 a year","Durham, NC 27701",3.8,"Durham County Government employs approximately 1,900 employees that work towards providing needed services throughout the community. With a wide array of services, Durham County Government is at the heart of a rapidly growing and diverse area offering residents, employees and visitors exciting opportunities to live, work, grow and play.
+DEPARTMENT:
+Fire Marshal/Emergency Mgmt
+DATE POSTED
+:
+July 12, 2021
+CLOSING DATE
+:
+Open until filled
+SALARY MIN:
+$65,072.00
+SALARY MAX:
+$117,129.00
+POSITION NUMBER:
+40008281
+JOB TYPE:
+Full-Time
+GENERAL DESCRIPTION
+This position will be responsible for supporting multiple divisions in their data needs and will be essential to the implementation of EPIC. This position is essential in response to data gathering and community reporting during emergency and outbreak situations.
+DUTIES AND RESPONSIBILITIES
+Creates Machine Learning Algorithms, Deep Learning models and NLP pipelines.
+Updates existing dashboards, clean databases and gathers data.
+Produces production level code to run complex analysis for predictive analytics.
+Manages and produces maps via ArcGIS online and ArcGIS Pro.
+Presents data findings and recommendations to leadership and provides rationale to analysis and next steps.
+Generates and develops complex SQL to extract and consolidate data from disparate databases.
+Validates statistics, linear algebra, and regression models.
+Creates and cleans complex datasets into usable and actionable dashboards.
+Codes applications to be used by management.
+KNOWLEDGE, SKILLS, AND ABILITES
+Ability to work with large and complex data sets.
+Thorough knowledge and experience creating Machine Learning Algorithms, Deep Learning models and NLP pipelines.
+Thorough knowledge and experience creating and updating existing dashboards, cleaning databases and gathering data.
+Ability to write a production-level code to run complex analysis for predictive analytics.
+Thorough knowledge of managing and producing maps via ArcGIS online and ArcGIS Pro.
+Thorough knowledge of generating and developing complex SQL to extract and consolidate data from disparate databases.
+MINIMUM EDUCATION AND EXPERIENCE REQUIREMENTS
+Requires a Master’s Degree in Data Science, Computer Science, Information Technology, Programming or related fields with a minimum of three years of experience working with large, complex data sets, cleaning data, creating data dashboards and visualization; or possession of any equivalent combination of education, training, and experience which provides the requisite knowledge, skills, and abilities.
+Durham County Government is an Equal Opportunity Employer"
+23,Fully Remote Data Scientist,Piper Companies,$50 - $55 an hour,+2 locationsRemote,4.5,"Piper Companies is seeking a
+Fully
+Remote
+Data Scientist
+to join one of the nation’s largest premier credit unions. The Data Scientist
+will implement quantitative models to analyze credit and prepayment risk, determine the allowance for loan losses, and support financial planning.
+Responsibilities of the Data Scientist include:
+Implement models for loan loss allowance, CECL, stress testing, new volume origination, line of credit utilization, and prepayment models for all products, including credit card, personal loan, student loan, auto loan, mortgage, and commercial loan.
+Maintaining documentation for key processes and model components across the team with a focus on standardization of processes that satisfy model risk management, audit, and regulatory requirements.
+Implement vendor-developed models for consumer and commercial credit loss or prepayment.
+Monitor performance of quantitative models and support independent model validation efforts in accordance with the model risk management policy.
+Establish and document model implementation controls that satisfy model risk management, audit, and regulatory requirements.
+Qualifications for the Data Scientist include:
+2+ years of experience in quantitative modeling, development, or implementation.
+Working experience in data manipulation and advanced data analysis.
+Experience with SAS, R, Python, and proficiency working with large datasets is required.
+Applied experience with Logistic Regression, Linear Regression, Survival Analysis, Time Series Analysis, Decision Trees, and Cluster Analysis.
+Experience in at least one (1) of the following areas is preferred; real estate products, auto, credit card, student loan, or commercial loan.
+Compensation for the Data Scientist include:
+Hourly Pay: $50 - $55/hr - Salary Range: $100,000-$150,000 + Bonus Package **depending on experience**
+Full benefits: PTO, Paid Holidays, Cigna Healthcare, Dental, Vision, 401k with ADPTS
+Keywords:
+Data, data science, R, sas, python, datasets, logistic regression, linear regression, survival analysis, time series analysis, decision trees, cluster analysis, real estate, auto, credit card, consumer lending, consumer banking, modeling, model implementation, model risk, documentation, prepayment risk, financial services,"
+24,Data Scientist 2 - SQL - Excel,PRA Health Sciences,Estimated $67.5K – $85.5K a year,+1 locationRemote,3.5,"Overview
+ICON plc is a world-leading healthcare intelligence and clinical research organisation. From molecule to medicine, we advance clinical research providing outsourced services to pharmaceutical, biotechnology, medical device and government and public health organisations.
+With our patients at the centre of all that we do, we help to accelerate the development of drugs and devices that save lives and improve quality of life.
+Our people are our greatest strength, are at the core of our culture, and the driving force behind our success. ICON people have a mission to succeed and a passion that ensures what we do, we do well.
+Responsibilities
+Healthcare Intelligence Experts.
+Symphony Health, part of the ICON plc., is a team of curious thinkers and intellectual problem solvers driving the healthcare data industry forward. We leverage our large, integrated healthcare data repository and our analytic expertise to build customized, agile data solutions which answer the questions our clients - life science manufacturers, payers, and providers - have today, as well as those they’ll have tomorrow. Together, we can help patients get the right drugs at the right times.
+This is an exciting position available on our Analytics team. Utilizing successful experience in the healthcare data science industry, the Data Scientist 2 will be contribute crucial and time sensitive projects. Overall, the Data Scientist 2 is a self-motivated individual who leads independent data analysis prepares comprehensive reports, and presentations of data analysis findings for both internal and external clients, and also supports privacy redactions and drives project implementations, supporting revenue needs.
+Primary Responsibilities:
+Review projects and work across teams to understand scope and timeline Route projects for additional analysis and work with Third Party to review projects
+Coordinate analysis with Third Party
+Respond to inquiries and follow up on data validations
+Provide recommendations based on analyzed data to solve a variety of business problems and enable business strategy.
+Collaborate with cross-functional teams (customers, internal IT teams, etc) to understand business needs, ensure data integrity and flow efficiency, and to create tools for customer utilization.
+Provide quality validations and on-going support of client and projects.
+Enhance or create new quality control methods to evaluate the accuracy of deliverable and/or project analysis.
+Manipulate and / or build query statements to perform data extracts across multiple data sets and platforms.
+Interpret Third Party reports to the business
+Drive implementations of Privacy redactions with Internal Teams.
+Finalize and deliver the results of assigned projects to internal clients
+Core Responsibilities:
+Applies sound business practices, information and technology to current position; applies job knowledge and skills to produce quality work; continually updates technical and professional expertise and appropriate job requirements
+Produces clear tool extracts/reports to provide deliverables to customers that are clear and efficient.
+Contribute to RFPs and customer requests as necessary in collaboration with business development.
+Collaborate with IT group to transform and prepare data for analysis.
+Appropriately balances the quantity/quality of own work with the business situation; demonstrates enthusiasm, drive and a sense of urgency when completing work.
+Excellent verbal, written and presentation skills.
+Strong analytical and assessments skills.
+Strong project management skills.
+Strong ability to translate data driving insights into decisions and actions.
+Strong ability to think strategically and be proactive and collaborative
+Qualifications
+What do you have?
+1 year+ relevant experience
+Experience working with prescription and patient claims data preferred.
+Strong SQL skills
+Excellent MS office skills, especially Excel, utilizing pivot tables
+Knowledge of relational databases, scripting languages, and statistical computing packages, including R, Python, Hadoop, and Oracle
+Knowledge of applied statistics, including regression models.
+Excellent written and oral communication skills.
+Bachelor’s degree or international equivalent
+Equivalent combination of education, training, and relevant experience may be considered in place of the education and experience stated above. All employees must read, write and speak fluent English and host country language.
+Benefits of Working in ICON:
+Our success depends on the knowledge, capabilities and quality of our people. That’s why we are committed to developing our employees in a continuous learning culture – one where we challenge you with engaging work and where every experience adds to your professional development.
+At ICON, our focus is to provide you with a comprehensive and competitive total reward package that comprises, not only an excellent level of base pay, but also a wide range of variable pay and recognition programs. In addition, our best in class employee benefits, supportive policies and wellbeing initiatives are tailored to support you and your family at all stages of your career - both now, and into the future.
+ICON, including subsidiaries, is an equal opportunity and inclusive employer and is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know."
+25,Crash Data Scientist,Virginia Tech,$25 - $50 an hour,+4 locationsRemote,4.3,"Job no:
+518953
+Work type:
+Hourly Wage/Part-Time
+Senior management:
+Vice President for Research
+Department:
+Virginia Tech Transportation Instit
+Location:
+Telework Eligible
+Categories:
+Engineering, Transportation
+Job Description
+There are jobs. Then there are careers that foster you to be a force for good in the world. The Virginia Tech Transportation Institute (VTTI) is a world-leading safety research center working with vehicle manufacturers, tech companies, suppliers, and government agencies to bring about the safe development and deployment of vehicle technology on our roadways. Transportation is under transformation, so every day we are approaching problems differently to make a difference in the world.
+VTTI seeks qualified ambitious researchers interested in answering complex questions surrounding mobility. The candidate for this position should be an experienced U.S. crash data analyst capable of working independently and with multidisciplinary teams to improve transportation safety through cutting-edge research. Having personnel that can wear many hats and contribute across the broad spectrum of research projects is critical.
+The primary responsibility is to serve as an U.S. crash data technical expert for the institute. This role will include analysis and interpretation of crash data to support traffic safety-related research. With well-established technical expertise, the researcher will serve as a technical mentor to junior team members.
+The principal data resources are from external sources including FARS, NASS-GES, NASS-CDS, CRSS, and CISS; in-depth understanding of those resources is necessary to formulate appropriately research hypotheses, conduct suitable analyses accurately and efficiently, and properly interpret the results.
+In collaboration with sponsors, the crash data scientist will develop research questions, examine the feasibility of approaches, propose strategies to develop efficient code, and suggest potential validation strategies, as applicable. In doing so, the analyst will draw upon in-depth understanding of U.S. Crash Data and statistical analysis techniques.
+The researcher will lead the preparation of a variety of research outputs suitable for all levels of management and sponsors. This output may include monthly or quarterly progress reports, flowcharts, work plans, presentations, as well as interim and final reports.
+Required Qualifications
+Advanced degree in related field such as engineering, computer science, business information technology, mathematics, or statistics. In lieu of an advanced degree significant work experience and capabilities in high performance computing or transportation research will be considered.
+Proficiency with relational database programming in SQL
+Experience with scientific computing packages such as Python, R, SAS and MATLAB.
+Experience in preparing and delivering comprehensive presentations and reports suitable for all levels of management.
+Supervisory and project management experience
+Creative, independent, and highly motivated, with excellent interpersonal and communication skills.
+Strong work habits and the ability to work independently as well as with a team.
+Comprehensive knowledge of traffic crash data collection practices, analysis methods, and appropriate interpretation of results
+Minimum five years conducting analysis of traffic crash data using SAS, for FARS, NASS-GES, NASS-CDS, CRSS, and CISS
+Ability to manage a broad project portfolio in an unstructured environment
+Strong analytic and problem-solving skills
+Creative, independent, and highly motivated, with excellent interpersonal and communication skills.
+Strong team focus and collaboration skills
+Preferred Qualifications
+Master’s degree in Statistics or Computer Engineering
+Pay Band
+5
+Appointment Type
+Restricted
+Salary Information
+Commensurate with experience, $25.00 - $50.00 per hour
+Review Date
+1/25/2022
+Additional Information
+The successful candidate will be required to have a criminal conviction check as well as documentation of COVID-19 vaccination or receive approval from the university for a vaccination exemption due to a medical condition or sincerely held religious belief.
+About Virginia Tech
+Dedicated to its motto,
+Ut Prosim
+(That I May Serve), Virginia Tech pushes the boundaries of knowledge by taking a hands-on, transdisciplinary approach to preparing scholars to be leaders and problem-solvers. A comprehensive land-grant institution that enhances the quality of life in Virginia and throughout the world, Virginia Tech is an inclusive community dedicated to knowledge, discovery, and creativity. The university offers more than 280 majors to a diverse enrollment of more than 36,000 undergraduate, graduate, and professional students in eight undergraduate colleges, a school of medicine, a veterinary medicine college, Graduate School, and Honors College. The university has a significant presence across Virginia, including the Innovation Campus in Northern Virginia; the Health Sciences and Technology Campus in Roanoke; sites in Newport News and Richmond; and numerous Extension offices and research centers. A leading global research institution, Virginia Tech conducts more than $500 million in research annually.
+Virginia Tech does not discriminate against employees, students, or applicants on the basis of age, color, disability, sex (including pregnancy), gender, gender identity, gender expression, genetic information, national origin, political affiliation, race, religion, sexual orientation, or military status, or otherwise discriminate against employees or applicants who inquire about, discuss, or disclose their compensation or the compensation of other employees or applicants, or on any other basis protected by law.
+If you are an individual with a disability and desire an accommodation, please contact
+Lisa Eichelberger
+at
+lisae@vt.edu
+during regular business hours at least 10 business days prior to the event.
+Advertised:
+January 18, 2022
+Applications close:"
+26,Data Scientist - Analytics,Acorn Analytics,Estimated $95.8K – $121K a year,+1 locationRemote,,"Role Summary
+: Using your deep curiosity and desire to learn, you will focus on analytics and perform a variety of tasks related to cleaning and exploring new datasets, uncovering useful trends and observations in the data, while keeping in mind the business context and goals specific to the Client.
+Acorn Analytics
+is a data science consultancy that helps clients of varying degrees of data maturity harness the power in their data to drive smarter decision making. We are proactive communicators, upfront and candid!
+Using your attention to detail and pride in your work, you will be responsible for:
+Exploratory data analysis (EDA)
+Quality assurance
+Reviewing and refactoring code
+Writing scripts in python that will be run on AWS
+Aggregating and analyzing metrics
+Creating tables and figures that will be utilized in reports to Client or on Client dashboard
+Creating Google Slides presentation decks
+Creating written content describing findings
+Internal and Client-facing zoom calls
+Working closely and communicating with Project Lead
+You will communicate with Dev Ops, Data Science Project Lead(s), and the Director of Fulfillment on a regular basis, and will grow towards becoming independently Client-facing.
+Technical must-haves include:
+Comfortable in python, proficient with pandas, matplotlib, performing exploratory data analysis, writing functions
+Familiarity using Stack Exchange/Overflow as a technical resource
+Experience with Jupyter Notebooks
+Experience with git
+Team/interpersonal must-haves include:
+Excellent communication (written, oral); comfortable asking questions and being upfront with areas of lower competence
+Proactive communicator; Be upfront/candid with any challenges
+Excellent attention to detail in all aspects of work
+Stellar work ethic, takes pride in work
+Deeply curious with a hunger to learn, enjoys thoroughly understanding, growing, and asking questions; independent thinker
+Strong interpersonal and team skills
+Knows how to communicate to a technical and non-technical audience
+Ability to efficiently execute against a set of projects/tasks
+Able to troubleshoot independently, and identify when outside help is needed when roadblocks are hit
+Thrive in a fast-paced, small startup environment
+Experience Requirement:
+Must have at least 5
+years of related work experience
+Acorn provides valuable and actionable insights into organizations' raw data. We learn what is actually driving customer behavior so that engagement and loyalty are increased. We understand with data-driven precision what happened, why it happened, and what is likely to happen in the future. You will work with an engaging and dedicated team that are truly passionate about the work they do!
+As a part-time contractor, you will be working 10-15 hours/week.
+This is a Telecommute/Work from Home position.
+ZueHxL8MwK"
+27,Data Scientist,Grand Casino,Estimated $72.7K – $92.1K a year,"Onamia, MN 56359",3.4,"It's fun to work in a company where people truly BELIEVE in what they're doing!
+We're committed to bringing passion and customer focus to the business.
+Data Scientist
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us
+!"
+28,"Data Scientist, TikTok Creation and Consumption",TikTok,Estimated $105K – $133K a year,"New York, NY 10017 (Midtown area)+29 locations",3.6,"TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.
+We are looking for seasoned data scientists with strong analytics background that can help drive informed business decisions for TikTok. You will be tasked to work on our core products for the TikTok Content Creation and Consumption team which includes content creation, consumption, open platform, and foundation.
+You'll have the opportunity to work with large-scale data sets and turn your insights into real products. You'll be an integral part in how we understand user behavior, identify and recommend product opportunities, which are all critical to how we can scale our ever-growing user base within the TikTok community. You will also partner closely with our product and engineering teams in a high-impact and fast-paced environment.
+As a Data Scientist for our TikTok Creation and Consumption team, you will:
+Conduct quantitative analysis on specific areas around content creation and consumption, identify product opportunities, and further provide optimization suggestions.
+Work with the product and engineering team to size the potential impact of ""problems-to-solve"" for our business.
+Develop comprehensive product metrics and quantitative measurement structure based on product stages and business purposes.
+Measure and visualize the effectiveness of product updates.
+3+ years of industry experience in data science, conducting quantitative analysis and implementing data science solutions
+BA/BS in Computer Science, Math, Physics, Engineering, Statistics, or other technical fields. Advanced degrees preferred.
+Fluency in SQL or other programming languages. Some development experience in at least one scripting language (PHP, Python, Perl, etc.).
+Ability to initiate and drive projects to completion with minimal guidance.
+The ability to communicate the results of analyses in a clear and effective manner.
+Basic understanding of statistical analysis.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at usrc@tiktok.com"
+29,Data Scientist,"Fiserv, Inc.",,"San Jose, CA+2 locations",3.4,"Responsibilities
+(1) Work with managers and cross-functional product teams to create the prioritized list of data use cases and data challenges
+(2) Conduct independent data analysis to gain full understanding of the data and identify the data issues to resolve
+(3) Recommend statistical or machine learning methods to solve the data issues
+(4) Process data from multiple data sources to create clean and normalized feature datasets
+(5) Execute model training, hyperparameter tuning, feature selection, and performance evaluation;
+(6) Develop innovative machine learning algorithms to solve complex classification problems
+(7) Develop advanced deep learning algorithms for merchant data cleansing, data enrichment, image classification and text detection, and spend insight.
+Qualifications
+(1) A Master’s or a Bachelor’s degree in Math, Statistics, Data Science, Computer Science, or other related fields. Master’s degree preferred
+(1) Data processing of large datasets in Datawarehouse environment
+(2) Data science in Python
+(3) Developing machine learning models, including classification, clustering, unsupervised and supervised models
+(4) Developing deep neural network model for natural language processing (NLP), including Name Entity Recognition (NER), RNN, LSTM, BERT and word embedding
+(5) Feature engineering, hyperparameter tuning, and model training
+(6) Data privacy and data governance rules and regulations
+#FSINT"
+30,Data Scientist- Summer 2022,Sprinklr,,New York State•Remote,3.9,"Sprinklr is a unified customer experience management (Unified-CXM) platform for modern enterprises with employees around the world helping valuable brands make their customers happier.
+Learn more about our culture and how we make our employees happier through The Sprinklr Way.
+What You'll Do:
+Sprinklr is seeking a Data Engineer to join the Modern Analytics team and partner together on data architectures that support enterprise reporting and analytics. This person will work closely with colleagues to develop data flows in Snowflake and in Tableau, providing solutions that yield important insights to the company.
+In this role, you should have a background in ETL, data engineering and BI Reporting. Additionally, you should be analytical and an excellent communicator, and also have a business acumen, problem-solving and ""can do"" aptitude.
+Additional responsibilities are as follows:
+Contribute toward the design, deployment, and maintenance of data flows in Snowflake; support key datasets that yield structured and timely access to actionable business insights
+Ensure that the architecture and data pipelines are aligned with best practices and reporting standards, all the while upholding security, performance, robustness and reliability
+Build new and exciting reports and dashboards in Tableau, all the while working with colleagues to interpret insights from the data.
+Act as a teammate on a small team, where on any given day, you may wear different hats, roll up your sleeves, and do what is needed to get the job done
+Develop a deep understanding of data sources and know exactly how, when, and which data to use to solve particular business problems
+As part of development efforts, ensure that technical documentation is created and maintained, along with the capture of business requirements and acceptance criteria that pertain to the technical solution
+Contribute to the continual improvement of the business's data platforms through observations and well-researched knowledge.
+Keep a pulse on industry best practices and trends, offering opportunities for process and system improvements
+Monitor the existing metrics, analyze data, and lead partnership with other Data and Analytics teams in an effort to identify and implement system and process improvements.
+Qualifications:
+Degree in Computer Science, Information Systems, or related field.
+Experience in SQL and Python; Snowflake and Tableau experience is a plu
+Proficiency with data manipulation and analysis, along with the ability to build, maintain and deploy sequences of automated processes.
+Demonstrated ability to write clear code that is well-documented and stored in a version control system
+Excellent listening, interpersonal, communication and problem-solving skills
+Why you'll love Sprinklr:
+We're committed to creating the kind of culture where you feel like you belong, are happier today than yesterday, and your contributions matter. At Sprinklr, our goal is to treat everyone like family and passionately, genuinely care. For full-time employees, we offer flexible paid time off and paid parental leave, medical plans, dental and vision plans, life insurance, 401(k) savings plans, employee stock options, gym and wellness discounts, Plum benefits, Lifemart discounts, and paid time off to invest in learning and career development.
+We focus on our mission:
+We founded Sprinklr with one mission: to enable every organization on the planet to make their customers happier. Our vision is to be the world's most loved enterprise software company, ever.
+We believe in our product:
+Sprinklr was built from the ground up to enable a brand's digital transformation. Its platform provides every customer-facing team with the ability to reach, engage and listen to customers around the world. At Sprinklr, we have many of the world's largest brands as our clients, and our employees have the opportunity to work closely alongside them.
+We invest in our people:
+At Sprinklr, we believe every human has the potential to be amazing. We empower each Sprinklrite in the journey toward achieving their personal and professional best. For wellbeing, this includes daily meditation breaks, virtual fitness, and access to Headspace. We have continuous learning opportunities available with LinkedIn Learning and more.
+EEO - Our philosophy:
+Our goal is to ensure every employee feels like they belong and are operating in a judgement-free zone regardless of gender, race, ethnicity, age, and lifestyle preference, among others. We value and celebrate diversity and fervently believe every employee matters and should be respected and heard. We believe we are stronger when we belong because collectively, we're more innovative, creative, and successful.
+Sprinklr is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. See also Sprinklr's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by filling out this form, and we will reach out to you. If you have additional questions, please contact accommodations@sprinklr.com."
+31,REMOTE - Data Scientist,City of Hope,,"Irwindale, CA•Remote",3.7,"About City of Hope
+City of Hope, an innovative biomedical research, treatment and educational institution with over 6,000 employees, is dedicated to the prevention and cure of cancer and other life-threatening diseases and guided by a compassionate, patient-centered philosophy.
+Founded in 1913 and headquartered in Duarte, California, City of Hope is a remarkable non-profit institution, where compassion and advanced care go hand-in-hand with excellence in clinical and scientific research. City of Hope is a National Cancer Institute designated Comprehensive Cancer Center and a founding member of the National Comprehensive Cancer Network, an alliance of the nation’s leading cancer centers that develops and institutes standards of care for cancer treatment.
+This is a Fully Remote Role. You may sit in any of the 48 States
+Position Summary
+City of Hope, an innovative biomedical research, treatment and educational institution with over 6000 employees, is dedicated to the prevention and cure of cancer and other life-threatening diseases and guided by a compassionate, patient-centered philosophy.
+Founded in 1913 and headquartered in Duarte, California, City of Hope is a remarkable non-profit institution, where compassion and advanced care go hand-in-hand with excellence in clinical and scientific research. City of Hope is a National Cancer Institute designated Comprehensive Cancer Center and a founding member of the National Comprehensive Cancer Network, an alliance of the nation’s leading cancer centers that develops and institutes standards of care for cancer treatment.
+The Data Scientist in this role will query and analyze large complex datasets to discover insights to apply to an evolving cancer care delivery environment. The Data Scientist will use data mining, statistics and machine learning to understand relationships and patterns in data, build predictive models and propose actionable solutions.
+Key Responsibilities include:
+Collaborate with administrative leaders, clinicians and IT specialists
+Query large datasets from multiple systems
+Build machine learning models
+Design and implementation of pilots for validation and optimization of models in real time
+Produce technical documentation, visualizations and presentations
+Project management for complex tasks
+Completes own work independently
+Other duties as assigned
+Basic education, experience and skills required for consideration:
+Master’s degree with 0+ years of experience; or bachelor’s degree with 3+ years of experience
+Preferred education experience and skills:
+Familiarity with EHR data in a health care environment
+Familiarity with bio-genomic and medical imaging data
+Cloud services platforms like Amazon AWS and Microsoft Azure
+Awareness of the most recent trends and developments in the Data Science / Machine Learning fields
+Experience with data analytics within industry or academic environment, developing and successfully implementing statistical and machine learning models for data mining, prediction and clustering
+Experience with relational databases and SQL queries.
+Must be knowledgeable in at least one scientific computing language such as Python (e.g. pandas, scikit-learn, genism, seaborn, tensorflow, pytorch) or R (e.g. caret, dplyr, ggplot2)
+Familiarity and experience with machine learning (e.g. regression, classification, dimensionality reduction, ensemble methods) and deep learning (e.g. CNN, RNN, GAN, AE) techniques
+Proficiency in at least one programming language (e.g. Python, Java, C/C++)
+Ability to work independently and use creative approaches to problem solving
+Capable of turning questions into testable hypotheses, extracting data from complex databases, creating and evaluating statistical models
+Experience in data visualization and ability to communicate results to a non-technical audience
+Experience in completing end to end projects with minimal to no supervision
+Experience in being a part of big projects with many internal and external teams involved
+Experience managing collaborative data science projects
+Additional Information:
+City of Hope is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with disability."
+32,Data Scientist,Moderna,,"Cambridge, MA 02139 (The Port area)+1 location",3.8,"The Role:
+Moderna is seeking a motivated and talented Data Scientist to join our Data Science and Artificial Intelligence (DSAI) team. As part of the company’s mission to “ Build The Digital Biotech Company ”, we see a central role for DSAI in accelerating the scope and pace of our clinical trials. Collaborating closely with Moderna’s Clinical Development Operations (CDO) team, the role will contribute directly towards modeling and optimizing all aspects of clinical trial operations, generating actionable insights impacting trial evolution and patient outcomes. We are looking for someone who is deeply curious, analytically savvy, exhibits an excellent work ethic, and possesses a desire to help realize the potential of novel mRNA therapeutics for patients in the clinic. This full-time position is based in Cambridge, Massachusetts.
+Here's What You’ll Do:
+Collaborate on a wide range of CDO projects, e.g. clinical supply chain simulation and optimization, modeling subject journey through clinical trials, improving equitable clinical trial subject recruitment and retention, etc.
+Develop familiarity and knowledge of clinical trial processes, CDO and its partners, etc.
+Transform nebulous problems and potentially messy datasets into actionable and impactful insights for stakeholders
+Employ data science and software engineering best practices
+Leverage a broad array of machine learning techniques, e.g. natural language processing, classification/regression, Bayesian data analysis/probabilistic programming, reinforcement learning, etc.
+Distill and validate analytical/modeling results, understand their implications, and synthesize them into findings and recommendations for internal and external stakeholders
+Collaborate with other data scientists CDO and non-CDO partners across Moderna
+What You’ll Bring to the Table:
+A Ph.D. in a quantitative STEM field (technology, engineering, and mathematics) with up to 2 years of professional experience - recent & 2021 PhD graduates also welcome to apply.
+Solid understanding of fundamental concepts in multivariate calculus, linear algebra, probability, statistics, and machine learning
+Fluency in Python, especially the scientific Python stack (Jupyter/Pandas/scikit-learn/PyTorch)
+Familiarity with best practices in software development, including Amazon Web Services, Docker, version control (Git), and documentation
+Experience in identifying, procuring, and integrating external data sources as needed
+Working knowledge of relational databases (e.g., PostgreSQL)
+Outstanding communication skills (verbal, written, and virtual/remote).
+Ability to manage multiple projects and effectively collaborate in a dynamic, cross-functional environment
+(Preferred) Familiarity with both the theory and practice of Natural Language Processing/Understanding.
+(Preferred) Familiarity with Bayesian data analysis and probabilistic programming .
+(Preferred) Experience working in the clinical trial, medical, and/or healthcare domains.
+Here’s What We’ll Bring to the Table:
+On-site subsidized cafeteria or catered lunches
+Company-provided iPhone
+Free parking, monthly subway pass or a subsidized commuter rail pass
+Free annual corporate membership to Bluebikes
+Highly competitive healthcare coverage including: medical offered through BCBS (HMO/PPO), dental, and vision offered through VSP
+Flexible Spending Accounts for medical expenses and dependent care expenses
+16 weeks of 100% paid parental leave for all new parents
+16 weeks 100% paid family caregiver leave
+20 weeks 100% paid medical leave
+Eligible for “Moderna Month” (one month paid sabbatical after five years of service and eligible for additional one month paid sabbatical every 3 years thereafter)
+Adoption assistance and discounts to local childcare centers, as well as access to care.com
+401k (traditional and Roth offered) with 50% match on first 6% deferred. Match is vested immediately
+A suite of Moderna paid insurance coverage, including: life insurance, short-term and long-term disability
+Voluntary legal assistance plan
+15 days’ vacation and 7 sick days per year, in addition to a discretionary winter shut down and 11 company paid holidays (includes 2 floating holidays)
+Candidates should be aware that Moderna currently maintains a policy requiring all US-based employees to be fully vaccinated
+against COVID-19
+and receive a booster shot once eligible
+. Newly hired employees must be vaccinated
+and boosted
+prior to their employment start date. Moderna is an equal opportunity employer and will provide a reasonable accommodation to those unable to be vaccinated
+or receive a booster
+where it is not an undue hardship to the company to do so as provided under federal, state, and local law.
+About Moderna
+In 10 years since its inception, Moderna has transformed from a science research-stage company advancing programs in the field of messenger RNA (mRNA), to an enterprise with a diverse clinical portfolio of vaccines and therapeutics across six modalities, a broad intellectual property portfolio in areas including mRNA and lipid nanoparticle formulation, and an integrated manufacturing plant that allows for both clinical and commercial production at scale and at unprecedented speed. Moderna maintains alliances with a broad range of domestic and overseas government and commercial collaborators, which has allowed for the pursuit of both groundbreaking science and rapid scaling of manufacturing. Most recently, Moderna’s capabilities have come together to allow the authorized use of one of the earliest and most effective vaccines against the COVID-19 pandemic.
+Moderna’s mRNA platform builds on continuous advances in basic and applied mRNA science, delivery technology and manufacturing, and has allowed the development of therapeutics and vaccines for infectious diseases, immuno-oncology, rare diseases, cardiovascular diseases and auto-immune diseases. Moderna has been named a top biopharmaceutical employer by
+Science
+for the past seven years. To learn more, visit www.modernatx.com .
+Moderna is a smoke-free, alcohol-free and drug-free work environment.
+Moderna is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants without regard to a person’s race, color, gender, age, religion, national origin, ancestry, disability, veteran status, genetic information, sexual orientation or any characteristic protected under applicable law. Moderna will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law."
+33,Data Scientist,Scripps Health,,"San Diego, CA 92121 (Sorrento Valley area)",4.0,"Scripps Health Administrative Services supports our five hospitals and 19 outpatient facilities, which treat half a million patients annually through 2,600 affiliated physicians.
+At Scripps Health, you will experience the pride, support, respect that has been repeatedly recognized as one of the nation’s Top 100 Places to work.
+You’ll be surrounded by people committed to making a difference in the lives of their patients and their teammates. So if you’re open to change, go ahead and unlock your potential.
+The Data Scientist performs advanced integrated comprehensive reporting, consultative, and analytical expertise to provide data and information to internal and external stakeholders. Provides strategies to drive continuous improvement and strategic change for stakeholders. Assists with developing methodologies, performing analysis, summarizing results and developing conclusions for project teams, leaders, and internal and external stakeholders.
+Other job duties include:
+Perform population assessments to identify opportunity in medical expenses and affordability
+Assess disease burden within payor populations to determine appropriate clinical interventions
+Co-design a wide range of MSSP analyses to support ACO strategy and organizational goals
+Lead and serve as a thought leader in R&D efforts for value-based care arrangements & innovation
+Spearhead new initiatives in population health intelligence
+Lead internal teams for interdepartmental endeavors in population health insights, data design, and predictive modeling.
+This is a Full Time, Salaried position, located at our corporate offices in La Jolla and offers Scripps Health’s award-winning benefit package.
+Required Education/Experience/Specialized Skills:
+Bachelor's degree.
+Excellent communication skills in order to directly communicate at a consumer level with internal clients.
+Preferred Education/Experience/Specialized Skills/Certification:
+Master’s Degree in related field (Clinical or quantitative)
+Expertise in leading R&D for analytics within MSSP & ACO populations
+Prior experience in assessing impact of disease burden on clinical and financial outcomes
+Prior experience in developing patient prioritization indices
+Scripps Health is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, sexual orientation, or gender identity/expression), age, marital status, status as a protected veteran, among other things, or status as a qualified individual with disability."
+34,Data Scientist,The University of Pittsburgh,,"Pittsburgh, PA",4.2,"Data Scientist
+Med-Medicine - Pennsylvania-Pittsburgh - (22000593)
+The Department of Medicine, Renal-Electrolyte Division is seeking a Data Scientist to join the Center for Population Health Management. The Center for PHM provides high-quality collaboration in biostatistics, data management and information sciences to conduct population health management to improve care delivery for various disease states. In close collaboration with the Chief Analytics officer at the Center for Population Health Management, and the Clinical Analytics team, the Data Scientist works independently using a robust quantitative toolbox to discover solutions for a diverse portfolio of interesting and challenging problems. They will work with faculty in designing and implementing appropriate methods for the management and analysis of complex research study data, manuscript preparation, and drafting statistical analyses and sample size sections of grant applications, and will also advise other Center staff on statistical programming issues.
+Advanced degree (Ph.D. required) in a quantitative discipline such as Bio-informatics, Statistics, Applied Mathematics, Operations Research, Economics, Decision Science, Health Services Research or related field. MS Office proficiency required SQL/Business Intelligence knowledge preferred Healthcare experience preferred Excellent interpersonal, oral and written communication skills required. Must work well independently and within a team.
+The University of Pittsburgh is an Affirmative Action/Equal Opportunity Employer and values equality of opportunity, human dignity and diversity. EOE, including disability/vets
+The University of Pittsburgh requires all Pitt constituents (employees and students) on all campuses to be vaccinated against COVID-19 or have an approved exemption. Visit coronavirus.pitt.edu to learn more about this requirement.
+Assignment Category
+Full-time regular
+Job Classification
+Staff.Research Scientist.Scientist
+Campus
+Pittsburgh
+Minimum Education Level Required
+PhD or ScD
+Minimum Experience Level Required
+3-5 years experience
+Work Schedule
+8:30AM - 5:00PM Monday-Friday
+Hiring Range
+TBD based upon qualifications
+Relocation Offered
+No
+Visa Sponsorship Provided
+Yes
+Background Check
+For position finalists, employment with the University will require successful completion of a background check
+Child Protection Clearances
+Not Applicable
+Required Documents
+Resume
+Optional Documents
+Cover Letter"
+35,Data Scientist,Neiman Marcus,,"Dallas, TX 75039",3.6,"NEIMAN MARCUS GROUP
+For over a century, Neiman Marcus Group has served the unique needs of our discerning customers by staying true to the principles of our founders: to be the premier omni-channel retailer of luxury and fashion merchandise dedicated to providing superior service and a distinctive shopping experience in our stores and on our websites. Neiman Marcus Group is comprised of the Specialty Retail Stores division, which includes Neiman Marcus and Bergdorf Goodman. Our portfolio of brands offers the finest luxury and fashion apparel, accessories, jewelry, beauty, and home décor. The Company operates more than 40 Neiman Marcus full-line stores in the most affluent markets across the United States, including U.S. gateway cities that draw an international clientele. In addition, we operate 2 Bergdorf Goodman stores in landmark locations on Fifth Avenue in New York City. We also operate 5 Last Call by Neiman Marcus off-price stores that cater to a value oriented, yet fashion minded customer. Our upscale eCommerce and direct-to-consumer division includes NeimanMarcus.com, BergdorfGoodman.com Horchow.com and LastCall.com. Every day each of our 13,000 NMG associates work towards the goal of enabling our customers to shop any of our brands ""anytime, anywhere, and on any device."" Whether the merchandise we sell, the customer service we offer, or our investments in technology, everything we do is to enhance the customer experience across all channels and brands.
+Job Summary
+A Data Scientist in Neiman Marcus Group (NMG) deepens customers’ relationship, enhances customers’ magical luxury shopping experience, and increases luxury customers’ CLVs by applying algorithms. The Data Scientist performs statistical and econometric analysis, AI/ML modeling, and numerical optimization. The Data Scientist solves use cases related to personalization, customer engagement, marketing promotions, merchandise planning, supply chain, pricing, and cost. This position will lead data science needs across all Neiman Marcus Group brands, divisions and selling channels.
+Job Duties
+The position reports to the Manager or Senior Manager of Decision Science
+Collaborates with cross-organization to ideate and prioritize use cases, business problems, and user stories that can enhance customers experience and increase NMG ROI.
+Leads data science projects independently while collaborating with team members and multi-organizational stakeholders.
+Develops statistical, econometric, AI/ML, and numerical optimization models for personalization, customer engagement, marketing science, retail analytics, business analytics, and supply-chain analytics using big data in cloud environment to improve customer satisfaction and promote growth.
+Leverages state-of-the-art data science tools, methodologies, and algorithms to drive improved decisions
+Collaborates in the development and implementation of predictive models, segmentation strategies, optimization algorithms, and data mining analyses with a targeted result of increasing revenue.
+Researches, innovates, and designs algorithms and techniques to contribute in optimization and automation.
+Continuously learns new skills
+May be allowed to work from home or from remote location in the USA
+Qualifications
+At least a quant-based undergraduate degree such as Computer Science, Electrical Engineering, Math, Statistics, Physics, Economics, or other related fields from a reputed university with course work that includes analytics, coding, statistics, math, and algorithm development. Ph.D. is Preferred
+Strong in Math, Statistic, Finance, and Econometric
+Expert Level skills in at least two of the followings: a) graph/network theory, b) personalized recommendation engine, c) statistical modeling and linear/non-linear optimization theory, d) machine learning and neural Network
+1+ years of hands on experience in Data Science.
+Experience in working in retail space will be a plus.
+Strong coding skills in Python and SQL
+Experience in using Keras, Tensorflow, and scikit-learn
+Experience in working on Spark, AWS SageMaker, S3, and SnowFlake is a plus
+Primary Location
+:
+United States of America-Texas-DALLAS-Irving-Remote Dallas
+Work Locations
+:
+Remote Dallas Neiman Marcus 5950 Colwell Blvd Irving 75039
+Job
+:
+E-Commerce
+Organization
+:
+Corporate
+Schedule
+:
+Full-time
+Shift
+:
+Day
+Employee Status
+:
+Regular
+Job Type
+:
+Standard
+Job Level
+:
+Individual Contributor
+Travel
+:
+No
+Job Posting
+:
+Sep 17, 2021, 5:17:18 PM"
+36,Data Scientist,Health Data Analytics Institute,"$140,000 - $150,000 a year","Dedham, MA 02026 (Greenlodge area)•Remote",4.8,"A*
+bout us: * HDAI is an entrepreneurial company developing and commercializing proprietary quantitative solutions to capture, integrate and interpret healthcare data to improve decisions and outcomes. HDAI is located in Dedham, MA near the Commuter Rail (25 minutes from Back Bay and South Station) and I-95/128. Working from home is an option!
+Job Description:
+The
+Data Scientist
+will be responsible for analytical research utilizing multiple sources of healthcare Real World Evidence to address clinical research questions and support the development and evaluation of HDAI’s suite of predictive models. Given a research objective, the Data Scientist will formulate and execute an approach to derive results utilizing data mining, mathematical analytics and modeling as appropriate. Typical questions to be addressed include predicting outcomes for individual subjects (e.g., survival curves, probabilities of future outcomes), analyzing an impact of an intervention, estimating relative risks of predictive variables, and estimating future costs associated with health care. The Data Scientist may also present the key analytic findings to our team or collaborators and may support publications of results.
+This full-time position reports to the Chief Scientist/VP of Research. Minimal travel is anticipated.
+Required Expertise:
+· 3+ years of experience conducting analytical/outcomes research
+· 1+ years experience in biomedical/medical field
+· 1+ years experience programming in SAS
+· 1+ years of experience with population health, ACO, care/case management, inside or as a solution vendor to healthcare organizations
+· Extensive knowledge of statistical and mathematical modeling techniques
+· Working expertise with relational datasets and database management software (e.g., SQL)
+· Familiarity with clinical and medical terminology
+· Strong command of verbal and written English
+· Outstanding critical thinking and attention to detail
+· Time management skills to complete work within allocated time frames
+Specific daily duties
+:
+· Conduct Outcomes Research on large datasets from managed care and other populations.
+· Write code, extract data, build datasets for analysis, conduct statistical analysis, create predictive models, tabulate/annotate results, summarize findings.
+· Prepare results for presentations, collaborators or publication (as needed).
+· Other duties: Support other research, software coding, IP development and marketing projects as required.
+Preferred Expertise:
+· Candidates with familiarity with administrative claims data are highly preferred
+· History of writing and publishing peer-reviewed manuscripts
+· Working knowledge of Software coding (R, Python, MATLAB, C, C++ or C#)
+· Familiarity with Databricks data management and analytics software.
+· Familiarity of Artificial Intelligence (AI) approaches to data mining and analysis of Big Data
+· Familiarity of using Microsoft Applications (Word, Excel, PowerPoint)
+Preferred Education:
+Master’s Degree (minimum) in the field of Public Health, Data Science, Science, Statistics, Biomedical Engineering or related field.
+EO Statement:
+HDAI is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+Job Type: Full-time
+Pay: $140,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Application Question(s):
+Ability to commute to office when needed.
+Experience:
+SAS programming: 1 year (Required)
+conducting analytical/outcomes Research: 3 years (Required)
+biomedical/medical field: 1 year (Required)
+Work Location: One location"
+37,Environmental Data Scientist,Abt Associates,,"Rockville, MD 20852+1 location",3.7,"Opportunity
+Abt Associates seeks a Data Scientist/Analytics Specialist to support the Division of Health and Environment in the research, design and execution of data-intensive federal government projects focused on climate change, clean energy, public health, and related topics. The selected candidate will bring a consultant mindset to understanding complex problems and the technical expertise to develop quantitative solutions. They will collaborate with cross-functional teams to define problems, perform advanced analytics and statistical analysis, and communicate insights in this client-facing role.
+Key Roles & Responsibilities
+Apply knowledge in machine learning, statistics, visualization, and data management to solve challenges with a variety of federal datasets.
+Identify ways to derive novel insights from government data, with particular focus on environmental, health, and socio-economic data.
+Provide expertise across the data lifecycle including data generation, organization, synthesis, automation, tool and workflow development.
+Collaborate with teams to develop advanced analytic use cases and estimate technical levels of effort.
+Preferred Skills/Prerequisites
+Excellent analytical, data mining, data cleaning, data visualization, and problem-solving skills.
+Proficiency in programming languages such as Python or R.
+Experience with machine learning and statistical analysis of data (e.g., regression).
+Experience with relational databases.
+Strong written, verbal and presentation skills for team, client, and stakeholder interactions.
+Ability to consult with non-technical audiences on technical problems.
+Ability to start with poorly-defined problems and determine appropriate questions for which quantitative solutions can be found.
+Experience with cloud-based technologies and software development preferred.
+Ability to partner with software engineers to develop production-level analytic solutions preferred.
+Ability to manage competing project demands while maintaining a high attention to detail.
+MA/MS or PhD in a quantitative field such as data science, computer science, environmental science (with quantitative focus) or related field. Background in Earth Sciences is a plus.
+Minimum Qualifications
+Bachelorâ€™s Degree + Twelve years of relevant experience, or Masterâ€™s Degree + Ten years of relevant experience, or PhD+ Eight years of relevant experience
+Abt Associates is an Affirmative Action/Equal Opportunity employer committed to fostering a diverse workforce. Abt Associates provides market-competitive salaries and comprehensive employee benefits. Local candidates strongly encouraged to apply.
+Disclaimer: Abt Associates will never ask candidates for money in exchange for an offer of employment."
+38,Data Scientist/ Business Analyst,Lion Interactive,"$110,000 - $120,000 a year",Remote,,"Lion Interactive, a digital consultancy, focuses on creating client-facing and B2B solutions for a variety of growth-oriented SaaS companies and Fortune 500 products. We are looking for a well versed Data Scientist with a Business Analyst understanding to join our team, working directly with a major consulting firm (McKinsey) solving problems for their clients and help build a revenue and cost analytics platform with a significant data pipeline focus. This multi-year project focuses heavily on serving SAAS companies, building applications for benchmarking their performance, and helping them optimize their performance.
+YOE: Education and work exp will be judged on a case by case basis. Applicants should have the relevant educational background and similar experience pertaining to this role.
+Communicate with internal and external clients to understand and define business needs, providing analytical solutions.
+Communicate results to technical and non-technical audiences
+Writing programs to cleanse and integrate data in an efficient and reusable manner, developing predictive or prescriptive models, and evaluating modeling results
+Knowledge of agile(scrum) development methodology is a plus.
+Knowledge of the principles of software engineering and data analytics.
+Proven experience working with large (multiple gigabyte) datasets for analysis and to determine meaningful relationships between data points
+Hands on professional experience with one or more of these technologies: Google or AWS computing platforms, Python programming language and familiarity with common analytics tools, basic machine learning techniques, strong understanding of relational databases (SQL) and data mining using complex relational queries. Jupyter notebooks experience needed.
+Collaborate with business stakeholders to understand their current and future state strategy, needs and requirements from a global perspective
+Proactively offer solution ideas and potential business process improvements in pursuit of driving efficiencies and meeting business needs
+Demonstrated ability to translate business needs and functional requirements into technical or process-driven solutions
+Disaggregates simplifies and then communicates data to stakeholders so that they can easily understand the data and use it to drive decisions and make changes.
+Attends meetings relating to areas of responsibility, for obtaining information, determining acceptable practices and policies and making recommendations for improvement and effectiveness.
+Uses a detailed and methodical approach to complete work in a well-organized and efficient manner.
+Job Type: Full-time
+Pay: $110,000.00 - $120,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Health insurance
+Life insurance
+Paid time off
+Schedule:
+8 hour shift
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Application Question(s):
+Do you have experience with managing data pipelines, ETL and data normalization
+Education:
+Master's (Preferred)
+Experience:
+Professional Data Science: 3 years (Preferred)
+Python: 3 years (Preferred)
+Work Location: Remote"
+39,Data Scientist,SolluCIO Partners,"$100,000 - $175,000 a year",Remote,,"Chat, hang out, explore MILLIONS of rooms, or build something new to share with us all!
+As a Product Data Scientist, you will use data to be an advocate for our players.
+Your insights into what users are doing on the platform will inform the kinds of features and products we build.
+You'll be equal parts investigator and storyteller, shaping experiences towards delighting players and building a sustainable business.
+As we scale, our Product Data Scientists will embed within individual teams, allowing you to develop deep context and empower you to provide strategic value.
+You might be helping the econ team think through how to scale the buyer and builder ecosystem, or helping the growth team think through how to give users more reason to return to the app.
+You might also help the User Generated Content team think through how to enable creators to build the best products, or the Social team how to make a player's experience more meaningful.
+The questions and potential for impact are huge.
+WHAT YOU'LL DO:
+Work closely with our designers and developers to understand what users are doing on the platform. Broadly communicate those findings to the immediate team and beyond.
+Develop and validate hypotheses to further our understanding of user needs.
+Propose changes to our product roadmap based on quantitative insights.
+Structure thoughtfully designed A/B tests and up-level broader team through rigorous understanding of test results.
+Contribute as needed to improve overall infrastructure - including building pipelines, data documentation, and dashboarding.
+Work with the ML team as needed to develop novel features and understand performance.
+WE ARE LOOKING FOR INDIVIDUALS WITH:
+A Bachelor’s or Masters in Math, CS, or related field
+3+ years of product analytics experience, with a proven track record of deriving insights that lead to product changes
+Very strong knowledge of SQL
+Experience with Python or R is a plus
+Experience with manipulating and analyzing complex, high-volume data
+A constant desire to learn, improve, and help others improve
+Effective communicator with the ability to distill complex concepts into easily digestible insights
+Job Type: Full-time
+Pay: $100,000.00 - $175,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Required)
+Experience:
+Python: 1 year (Preferred)
+SQL: 3 years (Preferred)
+Product Analytics: 3 years (Preferred)
+Work Location: Remote"
+40,Data Scientist,Mars,,"Chicago, IL+2 locations",3.9,"[Insert short summary of role – approximately 1 paragraph]
+What are we looking for?
+Insert bulleted list of 2-4 most essential requirements- can also include here 1-3 'nice-to-haves', that are identified as non-essential
+What will be your key responsibilities?
+[Insert list of top 4 key responsibilities for the role]
+What can you expect from Mars?
+Work with over 130,000 like-minded and talented Associates, all guided by The Five Principles.
+Join a purpose driven company, where we’re striving to build the world we want tomorrow, today.
+Best-in-class learning and development support from day one, including access to our in-house Mars University.
+An industry competitive salary and benefits package, including company bonus."
+41,Data Scientist (ALL LEVELS),Noblis,,"Reston, VA 20191 (Hattontown area)+1 location•Remote",4.0,"Responsibilities:
+As a Data Scientist with our team, you will be working to innovate with our federal clients to develop and maintain data guidelines, analytic programs, and database management systems to support programs essential to national security. In your role, you will learn and understand existing and planned data architectures and models, and help to develop creative approaches to modernization and design for analysis. You will also contribute to exploring emerging technology trends in data management and data science, and developing engineering proofs-of-concept to understand potential applicability of these technologies. The data scientist will be working closely with federal clients providing services to develop AI/ML models and weights to selected data to facilitate object detection, data triage, search/optimization, inference, facial recognition, behavior detection, and automated discovery and decision making, maintaining model versioning system and experience identifying new vulnerabilities in models.
+This role is client-facing, and involves collaboration with a wide range of partners, from senior agency leadership, to subject matter experts, to contractors performing project work.
+Begin developing relationships one level up and two levels down. Identify and support opportunities to expand project scope beyond current deliverable and actively share information about clients’ emerging support needs and trends with team members and management.
+Client Engagement: · Learn about the Noblis business development lifecycle, processes, tools, and account structure · Contribute specialized domain or technical content to proposal sections or client white papers · Build a productive relationship with your client and understand their structure and goals Qualifications:
+All degrees must be in a STEM field such as computer science, statistics, data analytics, computer engineering, mathematics, and physics
+Entry-Level:
+Bachelor's Degree +3-5 years of professional work experience or Master's Degree + 1-2 years of professional work experience
+Senior-Level:
+Bachelor's Degree +7 years of professional work experience or Master’s Degree + 4-6 years of professional work experience
+Desired
+skills and knowledge:
+The ideal candidate has proficiency with major data science tools and languages such as PostgreSQL/SQL, Python, R, NiFi, and Git
+Demonstrated experience with cleaning, managing, optimizing performance with, and processing large volumes of data
+The Data Scientist has familiarity with industry best practices for software/hardware optimization when processing large data sets and offers experience in the following required task areas: experience with machine learning, statistical modeling, time-series forecasting, and/or geospatial analytics; experience with Hadoop, Spark, or other parallel storage/computing processes is a plus
+Ability to obtain Top Secret or higher
+Overview:
+With the continuing impacts of COVID-19 around the world, we are taking action to protect the health and well-being of our colleagues and maintain the safety of the communities where we operate. Noblis seeks an environment free from COVID and prefers all employees to be fully vaccinated for COVID-19, subject to approved ADA or religious accommodations. Proof of vaccination will be required with employment and all unvaccinated employees will be subject to additional health and safety requirements. Restrictions may be aligned to federal, state, and/or client requirements
+.
+Noblis and our wholly owned subsidiaries, Noblis ESI, Noblis MSD and Noblis + Mikros Systems tackle the nation's toughest problems and apply advanced solutions to our clients' most critical missions. We bring the best of scientific thought, management, and engineering expertise together in an environment of independence and objectivity to deliver enduring impact on federal missions. Noblis works with a wide range of government clients in the defense, intelligence and federal civil sectors. Learn more at Noblis -About Us
+Why work at a Noblis company?
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public. Noblis has won numerous workplace awards. Noblis maintains a drug-free workplace.
+Noblis is an Equal Opportunity Employer. Employment decisions are made without regard to race (as well as because of or on the basis of traits historically associated with race, including hair texture, hair type, and protective hairstyles such as braids, locks, and twists), color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, pregnancy, childbirth, lactation and related medical conditions, genetic factors, military/veteran status, or other characteristics protected by law.
+Noblis is committed to the full inclusion of all qualified individuals. As part of this commitment, Noblis will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact employee-relations@noblis.org."
+42,Data Scientist,Hungryroot,,New York State•Remote,3.5,"Who We Are
+Hungryroot is your personal grocer, powered by AI and the belief that food deeply impacts your daily life. You tell us a little about yourself, and we use proprietary predictive technology to deliver groceries and recipes that best suit your individual needs and goals. We also assist with meal planning and nutritional support, helping you save time, save money, shop sustainably, and eat what makes you feel your best.
+We are a distributed team built on top talent from over 10 states across the U.S. While we have an office in NYC, we support employees creating ""offices"" wherever they are. We believe in fostering team connection and collaboration across all of our ""offices"" - so don't expect to be online at 6 am to make a meeting if you're on the West coast. Expect to attend regular team building events, and to be able to work from the beach every once in a while. Expect to be treated like an owner who cares about our common goal, not someone who has to clock in and out of work.
+Hungryroot is more than doubling in revenue year-over-year, profitable, and rapidly growing - this is why we need you!
+What You'll Do
+Hungryroot is looking for a Data Scientist to join our growing Data Team. As a Data Scientist, you will work closely with other Data Scientists and Data Engineers to develop various Machine Learning models that power Hungryroot and it's AI functions. These models include traditional forecasting models, as well as more industry-specific optimization challenges.
+As a Data Scientist at Hungryroot, you will work on answering questions like: how do you tell what food someone would like to eat this week, how do you determine whether they enjoyed it or not, maybe they liked their means last week, but are now looking for different options, maybe they like the same food on Tuesdays, but variety on Fridays, what about spicy food, is Green Chilly as spicy as Green Curry?
+Food is an untapped resource in the world of Data Science, and Hungryroot is at the forefront in this space. Our team builds models to understand human taste, and provide the best food to our customers week after week.
+Come join our team, apply your Machine Learning passion to a new space, and have fun in the process!
+How You'll Make an Impact
+Work with the other Data Scientists in creating new predictive models
+Collaborate with the other Data Scientists in creating personalization models (recommender systems, user preference models,...)
+Build operations optimization models (what food we deliver to whom)
+Partner with the Data Engineers to integrate the models in the production pipeline
+Be data-driven and analytical when it comes to understand experiment results, derive conclusions, and help the team move forward
+Why We Need You
+Recent experience programming with Python and Scala
+Familiarity working with traditional machine learning and optimization techniques
+Knowledge of AWS
+Perks & Benefits
+Remote Work Optional: Work from home, work from our NYC office, work from anywhere, you decide!
+Competitive compensation + comprehensive Medical, Dental, and Vision benefits
+Unlimited vacation policy
+Monthly Hungryroot credit
+Universal paid parental leave
+401k
+Commuter benefits
+A working environment filled with passionate, happy, smart people!
+#LI-REMOTE
+Hungryroot is built on the values of being proactive, positive, and transparent in all that we do. Our mission to help make healthy eating easy, accessible, and joyful is better served by a diverse workplace.
+We are a proud Equal Opportunity Employer committed to building an inclusive workplace. We have zero-tolerance for harassment or discrimination. We do not discriminate on the basis of race, religion, ethnicity, national origin, gender identity, gender expression, sexual orientation, age, marital status, veteran status, or disability."
+43,Data Scientist,Atlantisitgroup,"$78,136 - $181,200 a year",Remote,,"Data Scientist
+Location- Austin, TX
+Machine Learning2-5 years is required
+Recommendation systems2-5 years is required
+Pattern recognition2-5 years is required
+Data mining2-5 years is required
+Artificial Intelligence2-5 years is required
+Machine learning modeling2-5 years is required
+Data ingestion pipeline using spark2-5 years is required
+Hive2-5 years is required
+PyTorchAt least 1 year is required
+Caffe2At least 1 year is required
+TensorflowAt least 1 year is required
+KerasAt least 1 year is required
+numpyAt least 1 year is required
+PandasAt least 1 year is required
+Job Types: Part-time, Contract
+Pay: $78,136.00 - $181,200.00 per year
+Schedule:
+8 hour shift
+Education:
+Master's (Preferred)
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: Remote"
+44,Senior Data Scientist,Devoted Health,,Remote,3.4,"A bit about us:
+We’re on a mission to change healthcare — how it’s paid for, delivered, experienced. We want to put people center stage, not process or profit. We are guided by a deep belief that every person on Medicare should be treated like we would treat a member of our own family: with loving care and a profound commitment to their health and well-being.
+Why Devoted:
+Make a difference... a big difference. You will have the opportunity, in a unique and dynamic culture, to be a part of something incredibly meaningful. We’re a disruptive startup with an inspiring mission. Learn and grow alongside our world-class team of healthcare, technology, and data leaders, dedicated to building a health plan and clinical services that care for everyone like they were our own mothers or fathers. Our team and board members have decades of experience in health care entrepreneurship, data, technology, services, and policy. With their support, we look forward to building a health plan and clinical services that will give seniors easy access to the high-quality care they deserve.
+A bit about this role:
+The Senior Data Scientist will serve as a liaison to our Operational teams to answer important and timely questions about the health of the business; build robust data pipelines that underpin data-driven products and operations; and drive a data-driven culture by using their technical expertise to identify opportunities to improve key outcomes and operational efficiency. You will report into our Data Science team, and will work alongside Product Managers, Software Engineers, and Business Leads to solve key challenges for the company.
+We are looking to fill two roles. One that is focused on
+Risk
+and another that is focused on
+Clinical
+.
+The
+Risk Data Scientist
+will help lead the organization in understanding member clinical acuity as defined by CMS RAF score. This person will become an expert in all things related to Risk, including RAF, Clinical Suspecting logic, Predictive Modeling, and CMS Funding. This is a high profile role working to improve a function which is core to Devoted's success.
+The
+Clinical Data Scientist
+will help lead the organization in understanding how well our clinical programs are working, which patients we should target for which programs, and help identify our members who are most at risk. This role will interface close with our CMO and other clinical leaders to help answer questions related to our members well-being.
+Responsibilities will include:
+Working closely with key business stakeholders to understand the analytical needs of the business and providing insight in a rapid, iterative, and collaborative process
+Developing thoughtful reports and dashboards that help Operations teams improve their business decision-making
+Identifying patterns in the analyses you conduct, and using those patterns to improve our tools and processes so we can deliver results more quickly and accurately
+Communicating results to an audience of mixed technical backgrounds
+Required skills and experience:
+Ability to work in a fast-paced startup environment
+5+ years of individual technical contributor experience
+Experience collaborating effectively with stakeholders
+Advanced SQL skills
+Experience with Python or R
+Equally comfortable building dashboards and reports for KPIs, and doing deep-dive statistical analysis to influence the business
+#LI-BC1
+#LI-Remote
+If you love running towards complex challenges and transforming them into solutions, if you want to make a potentially huge impact on many lives, and if you are looking for a disruptive startup with an inspiring and talented team, Devoted Health may be the place for you! If you lack a specific credential for this position but believe that your strengths and life experiences will propel our mission, we would love to hear from you.
+Devoted is an equal opportunity employer. We are committed to a safe and supportive work environment in which all employees have the opportunity to participate and contribute to the success of the business. We value diversity and collaboration. Individuals are respected for their skills, experience, and unique perspectives. This commitment is embodied in Devoted’s Code of Conduct, our company values and the way we do business.
+As an Equal Opportunity Employer, the Company does not discriminate on the basis of race, color, religion, sex, pregnancy status, marital status, national origin, disability, age, sexual orientation, veteran status, genetic information, gender identity, gender expression, or any other factor prohibited by law. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+COVID-19 Vaccination Requirement:
+Where permitted by applicable law, candidates must have received or be willing to receive the COVID-19 vaccine by date of hire to be considered. The Company will provide reasonable accommodations to qualified employees with disabilities or for a sincerely held religious belief, practice, or observance."
