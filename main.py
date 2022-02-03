@@ -65,21 +65,31 @@ proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20s
 # if we can enther the 1st page we assume that it can do more
 proxy_i = 0
 print("start to scrapping")
-while i < 100:
-    start = time.process_time()
-    try: # need to iterate the proxies
-        c = extract(i,proxy_list,proxy_i)	
-    except:
-        break
-    transform(c,i)
-    time_taken = time.process_time() - start
-    if time_taken <0.7:
-        proxy_i = proxy_i+1
-        if proxy_i > len(proxy_list) -2:          
-            proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list            
-            proxy_i = 0
-    print(f'Page, {i/10 + 1} done' , time_taken)
-    i += 10
+print(f"we have {len(proxy_list)} wokring proxy list")
+while i < 300:
+	start = time.process_time()
+	c = None
+	while c is None:
+		try: # need to iterate the proxies
+			c = extract(i,proxy_list,proxy_i)	
+		except:
+			proxy_i = proxy_i + 1
+			print(f"{proxy_i}th proxy out of {len(proxy_list)}")
+			if proxy_i > len(proxy_list) -2:          
+				proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list            
+				proxy_i = 0
+				print(f"{proxy_i}th proxy out of {len(proxy_list)}")
+	transform(c,i)
+	time_taken = time.process_time() - start
+	if time_taken <0.7:
+		proxy_i = proxy_i+1
+		if proxy_i > len(proxy_list) -2:          
+			proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list            
+			proxy_i = 0
+			print(f"{proxy_i}th proxy out of {len(proxy_list)}")
+	time_taken2 = time.process_time() -start
+	print(f'Page, {i/10 + 1} done' , time_taken, "whole iter: ", time_taken2)
+	i += 10
 
 df = pd.DataFrame(jobList)
 now = datetime.now()
