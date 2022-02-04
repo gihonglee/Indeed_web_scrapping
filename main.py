@@ -18,6 +18,7 @@ headers_list = [{"User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
  {"User-Agent": 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1'},
  {"User-Agent" : 'Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36'}]
 
+
 def extract(page,proxy_list,proxy_i):
     url = f'https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start={page}&vjk=9be962d3b5516567'
     r = requests.get(url, headers = headers_list[(page//10)%6], proxies = {'http': proxy_list[proxy_i], 'https': proxy_list[proxy_i]})
@@ -56,42 +57,58 @@ def transform(soup,i):
 		'location' : location,
 		'company_rating' : rating,
 		'description' : description}
+	return job
+
+def main():
+	#Variable Declaration and prepare for the 
+	page = 0
+	proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')
+	proxy_i = 0
+	jobList = []
+	print("start to scrapping")
+	print(f"we have {len(proxy_list)} wokring proxy list")
+
+	# iterate the pages and proxies to scrap
+	while page < 2000:
+		start = time.process_time()
+		soup = None
+		while soup is None:
+			try: # need to iterate the proxies
+				soup = extract(page,proxy_list,proxy_i)	
+			except:
+				proxy_i = proxy_i + 1
+				print(f"{proxy_i}th proxy out of {len(proxy_list)} | Soup iteration, move to next proxy")
+				if proxy_i > len(proxy_list) -2:          
+					proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list 
+					print(f"we have {len(proxy_list)} wokring proxy list")           
+					proxy_i = 0
+					print(f"{proxy_i}th proxy out of {len(proxy_list)} | Soup iteration, resetting the proxylist")
+		job = transform(soup,page)
 		jobList.append(job)
-	return jobList
 
-jobList = []
-i = 0
-proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')
-# if we can enther the 1st page we assume that it can do more
-proxy_i = 0
-print("start to scrapping")
-print(f"we have {len(proxy_list)} wokring proxy list")
-while i < 300:
-	start = time.process_time()
-	c = None
-	while c is None:
-		try: # need to iterate the proxies
-			c = extract(i,proxy_list,proxy_i)	
-		except:
-			proxy_i = proxy_i + 1
-			print(f"{proxy_i}th proxy out of {len(proxy_list)}")
+		if page % 10 == 0:
+			df = pd.DataFrame(jobList)
+			now = datetime.now()
+			current_time = now.strftime("%H")
+			df.to_csv('jobs' + str(current_time) + '.csv')
+
+		print(f"{page/10 + 1}job had been added")
+		time_taken = time.process_time() - start
+		if time_taken <0.7:
+			proxy_i = proxy_i+1
 			if proxy_i > len(proxy_list) -2:          
-				proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list            
+				proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list    
+				print(f"we have {len(proxy_list)} wokring proxy list")        
 				proxy_i = 0
-				print(f"{proxy_i}th proxy out of {len(proxy_list)}")
-	transform(c,i)
-	time_taken = time.process_time() - start
-	if time_taken <0.7:
-		proxy_i = proxy_i+1
-		if proxy_i > len(proxy_list) -2:          
-			proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list            
-			proxy_i = 0
-			print(f"{proxy_i}th proxy out of {len(proxy_list)}")
-	time_taken2 = time.process_time() -start
-	print(f'Page, {i/10 + 1} done' , time_taken, "whole iter: ", time_taken2)
-	i += 10
+				print(f"{proxy_i}th proxy out of {len(proxy_list)} | Time took very short")
 
-df = pd.DataFrame(jobList)
-now = datetime.now()
-current_time = now.strftime("%H:%M:%S")
-df.to_csv('jobs' + str(current_time) + '.csv')
+		print(f'Page, {page/10 + 1} done' , time_taken)
+		page += 10
+
+	df = pd.DataFrame(jobList)
+	now = datetime.now()
+	current_time = now.strftime("%H")
+	df.to_csv('jobs' + str(current_time) + '.csv')
+
+if __name__ == "__main__":
+    main()
