@@ -50,14 +50,14 @@ def transform(soup,i):
 		)
 		description = s.select_one("#jobDescriptionText").get_text(strip=True, separator="\n") if s.select_one("#jobDescriptionText") else None
 
-		job = {
+		job_result = {
 		'title': title,
 		'company': company,
 		'salary': salary,
 		'location' : location,
 		'company_rating' : rating,
 		'description' : description}
-	return job
+	return job_result
 
 def main():
 	#Variable Declaration and prepare for the 
