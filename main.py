@@ -83,8 +83,8 @@ def main():
 					print(f"we have {len(proxy_list)} wokring proxy list")           
 					proxy_i = 0
 					print(f"{proxy_i}th proxy out of {len(proxy_list)} | Soup iteration, resetting the proxylist")
-		job = transform(soup,page)
-		jobList.append(job)
+		job_result = transform(soup,page)
+		jobList.append(job_result)
 
 		if page % 10 == 0:
 			df = pd.DataFrame(jobList)
