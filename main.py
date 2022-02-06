@@ -25,7 +25,7 @@ def extract(page,proxy_list,proxy_i):
     soup = BeautifulSoup(r.content, 'html.parser')
     return soup
 
-def transform(soup,i):
+def transform(soup,i,jobList):
 	# divs = soup.find_all('div', class_ = "job_seen_beacon")
 	for job in soup.select('a[id^="job_"]'):
 		job_id = job["id"].split("_")[-1]
@@ -57,7 +57,9 @@ def transform(soup,i):
 		'location' : location,
 		'company_rating' : rating,
 		'description' : description}
-	return job_result
+		jobList.append(job_result)
+
+	return jobList # result of a jobinfo in a page
 
 def main():
 	#Variable Declaration and prepare for the 
@@ -69,7 +71,7 @@ def main():
 	print(f"we have {len(proxy_list)} wokring proxy list")
 
 	# iterate the pages and proxies to scrap
-	while page < 2000:
+	while page < 1000:
 		start = time.process_time()
 		soup = None
 		while soup is None:
@@ -83,19 +85,19 @@ def main():
 					print(f"we have {len(proxy_list)} wokring proxy list")           
 					proxy_i = 0
 					print(f"{proxy_i}th proxy out of {len(proxy_list)} | Soup iteration, resetting the proxylist")
-		job_result = transform(soup,page)
-		jobList.append(job_result)
-
+		jobList = transform(soup,page,jobList)
+		
 		if page % 10 == 0:
 			df = pd.DataFrame(jobList)
 			now = datetime.now()
 			current_time = now.strftime("%H")
 			df.to_csv('jobs' + str(current_time) + '.csv')
 
-		print(f"{page/10 + 1}job had been added")
 		time_taken = time.process_time() - start
+		
 		if time_taken <0.7:
 			proxy_i = proxy_i+1
+			print(f"{proxy_i}th proxy out of {len(proxy_list)} | Time took very short")
 			if proxy_i > len(proxy_list) -2:          
 				proxy_list = proxy_cleaning.working_list('https://www.indeed.com/jobs?q=data%20scientist&l=United%20States&start=0&vjk=9be962d3b5516567')# need to reset proxy_list    
 				print(f"we have {len(proxy_list)} wokring proxy list")        
